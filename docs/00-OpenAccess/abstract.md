@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Introduction!
+# Abstract
 
 You have just entered the **Book 1** and made some changes to the **initial template**.
 

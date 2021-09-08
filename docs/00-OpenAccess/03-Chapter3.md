@@ -1,23 +1,8 @@
 ---
-sidebar_position: 3.1
+sidebar_position: 3.3
 ---
 
-# Chapter I: ABC
-test commit 2. Test of Atom.
-Ⅰ	Ⅱ	Ⅲ	Ⅳ	Ⅴ	Ⅵ	Ⅶ	Ⅷ	Ⅸ	Ⅹ	Ⅺ	Ⅻ
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-chaptertest
-
-```python
-print("hello world!")
-```
-
-</p>
-</details>
+# Chapter III: DEF
 
 You have just entered the **Book 1** and made some changes to the **initial template**.
 

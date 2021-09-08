@@ -2,7 +2,7 @@
 sidebar_position: 3.2
 ---
 
-# Chapter II.: DEF
+# Chapter II: DEF
 
 You have just entered the **Book 1** and made some changes to the **initial template**.
 
