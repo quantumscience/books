@@ -8,6 +8,7 @@ test commit 2. Test of Atom.
 <p>
 
 #### yes, even hidden code blocks!
+chaptertest
 
 ```python
 print("hello world!")
