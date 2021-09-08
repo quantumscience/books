@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'Open Access Scientific Library',
   tagline: 'Informatics, Data Science, and Research',
   url: 'https://github.com/quantumscience/books',
-  baseUrl: '/books/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
