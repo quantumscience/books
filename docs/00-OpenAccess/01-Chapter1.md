@@ -3,7 +3,7 @@ sidebar_position: 3.1
 ---
 
 # Chapter I: ABC
-test commit 2.
+test commit 2. Test of Atom.
 <details><summary>CLICK ME</summary>
 <p>
 
