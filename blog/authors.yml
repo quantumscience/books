@@ -15,3 +15,21 @@ slorber:
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
+
+sandner:
+  name: Daniel Sandner
+  title: Open Research Maintainer and Author
+  url: https://github.com/endiliey
+  image_url: https://github.com/quantumscience/books/blog/sandner-profil-2-s.jpg
+
+quantum:
+  name: Quantum Labs
+  title: Open Research Developer
+  url: https://github.com/endiliey
+  image_url: https://github.com/slorber.png
+
+openr:
+  name: Open Research Project
+  title: Open Research Project Development
+  url: https://github.com/openr
+  image_url: https://github.com/slorber.png

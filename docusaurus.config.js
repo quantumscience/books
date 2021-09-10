@@ -54,7 +54,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'left',
             label: 'Books',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'News', position: 'left'},
           {
             href: 'https://github.com/quantumscience/books',
             label: 'GitHub',
