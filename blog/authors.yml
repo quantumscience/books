@@ -19,17 +19,17 @@ slorber:
 sandner:
   name: Daniel Sandner
   title: Open Research Maintainer and Author
-  url: https://github.com/quantumscience
-  image_url: https://github.com/quantumscience/books/blog/sandner-profil-2-s.jpg
+  url: https://github.com/quantumscience/books
+  image_url: https://avatars.githubusercontent.com/u/85122764
 
 quantum:
   name: Quantum Labs
   title: Open Research Developer
-  url: https://github.com/endiliey
-  image_url: https://github.com/slorber.png
+  url: https://github.com/quantumscience/books
+  image_url: https://avatars.githubusercontent.com/u/80801696
 
 openr:
   name: Open Research Project
   title: Open Research Project Development
-  url: https://github.com/openr
-  image_url: https://github.com/slorber.png
+  url: https://github.com/quantumscience/books
+  image_url: https://avatars.githubusercontent.com/u/80801696
