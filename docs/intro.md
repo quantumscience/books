@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Books Intro
+# Enter the Open Library
 
 Welcome to the Open Access Scientific Library! The library contains a selection of scientific books in various fields. The goal of the project is promoting Open Access in Scientific Research and dissemination of scientific works in general public.
 

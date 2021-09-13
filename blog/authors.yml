@@ -20,13 +20,13 @@ sandner:
   name: Daniel Sandner
   title: Open Research Maintainer and Author
   url: https://github.com/quantumscience/books
-  image_url: https://avatars.githubusercontent.com/u/85122764
+  image_url: https://avatars.githubusercontent.com/u/48335730
 
 quantum:
   name: Quantum Labs
   title: Open Research Developer
   url: https://github.com/quantumscience/books
-  image_url: https://avatars.githubusercontent.com/u/80801696
+  image_url: https://avatars.githubusercontent.com/u/85122764
 
 openr:
   name: Open Research Project
