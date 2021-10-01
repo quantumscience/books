@@ -11,4 +11,4 @@ sidebar_position: 2
 
 ## What's next?
 
-Data Science Basis
+Data Science Basics
