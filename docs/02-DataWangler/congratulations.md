@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
 sidebar_label: Abstract
-pagination_label: Data Wrangler's Notebook
+pagination_label: Data Wrangler's Toolkit
 ---
 
-# Data Wrangler's Notebook
+# Data Wrangler's Toolkit
 
 This practical handbook shows basic principles of data processing and visualization.
 

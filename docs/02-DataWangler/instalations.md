@@ -62,6 +62,14 @@ conda install -c anaconda anaconda-navigator
 ```bash
 conda install -c anaconda spyder
 ```
+## Update
+```bash
+conda update --all -y
+```
+```bash
+conda update conda
+conda install anaconda=VersionNumber
+```
 
 ## Meet Anaconda Navigator
 - image
