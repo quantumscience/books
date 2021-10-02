@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Installations
 
-What we will need for this book.
+What we will need for this book?
 
 :::note
 Goals.
@@ -13,17 +13,15 @@ Goals.
 - illustration
 - data scraping, data analysis
 
+:::note
+In this book, we will use Anaconda Navigator to manage our data science packages. It is good for version management and general overview of packages installed on your system, especially for a beginner.
+:::
 ## Anaconda
 
 - Basic Toolbox
+M
 
 ### Windows
-
-```md title="docs/hello.md"
-# Hello
-
-This is my **first Docusaurus document**!
-```
 
 ### Linux
 
@@ -43,6 +41,12 @@ winget install miniconda3
 
 Installs Anaconda Prompt and Anaconda Powershell Prompt.
 
+
+
+### Linux
+
+### Conda Installations of Packages
+
 - R-studio
 
 - Spyder Python
@@ -51,9 +55,19 @@ Installs Anaconda Prompt and Anaconda Powershell Prompt.
 
 - Orange Data Visualization
 
-### Linux
+```bash
+conda install -c anaconda anaconda-navigator
+```
 
-## Version Management
+```bash
+conda install -c anaconda spyder
+```
+
+## Meet Anaconda Navigator
+- image
+### Version Management
+For some scientific packages, you may need a specific version of programming language or environment.
+### Environments
 
 :::note
 Goals.
@@ -92,3 +106,13 @@ import TabItem from '@theme/TabItem';
 </Tabs>
 
 :::
+
+```md title="docs/hello.md"
+# Hello
+
+This is my **first Docusaurus document**!
+```
+
+Em Dash (—) En Dash (–)
+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>0</kbd>
+**Soubor ‣ Nový ‣ Obecné**. (*File ‣ New ‣ General*)
