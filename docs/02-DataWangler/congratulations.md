@@ -23,3 +23,6 @@ We will use Anaconda as package manager. The instructions will be for Windows an
 
 - Data Science Basics
 - Data Collection
+
+## Cover
+![image](./images/book-cover.svg)

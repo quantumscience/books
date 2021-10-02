@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Welcome to the Open Access Scientific Library! The library contains a selection of scientific books in various fields. The goal of the project is promoting Open Access in Scientific Research and dissemination of scientific works in general public.
 
-
+![image](./books.svg)
 ## Promoting Open Access in Scientific Research
 
 The focus of this project are books from fields connected to Informatics, Philosophy of Science, and Research in Natural Sciences in general.

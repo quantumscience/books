@@ -13,7 +13,7 @@ Book about the fundamental concepts of open access and opensource in science and
 Alternative title Open Access and Open Source in Scientific Research and Cultural Sustainability.
 
 ## Cover
-![image](./images/book-cover-open-3.svg)
+![image](./images/book-cover-open-3b.svg)
 ## What's next?
 
 - Read the [official documentation](https://docusaurus.io/).
