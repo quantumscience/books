@@ -36,6 +36,21 @@ npm run build
 - Minimalized installation
 
 ### Windows
+
+```bash
+winget install miniconda3
+```
+
+Installs Anaconda Prompt and Anaconda Powershell Prompt.
+
+- R-studio
+
+- Spyder Python
+
+- Jupyter Notebook, Jupyter Lab
+
+- Orange Data Visualization
+
 ### Linux
 
 ## Version Management

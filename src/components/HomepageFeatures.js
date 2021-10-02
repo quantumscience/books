@@ -4,69 +4,64 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Information Theory',
     Svg: require('../../static/img/book-cover-1.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      Samotný obsah tohoto projektu je licencován pod licencí <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons (CC BY-NC-ND 4.0)</a> a základní zdrojový kód používaný k formátování a zobrazení tohoto obsahu pod <a href="https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md">licencí MIT</a>. `
-      </>
-    ),
-  },
-  {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/book-cover-1.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('../../static/img/book-cover-1.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('../../static/img/book-cover-1.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('../../static/img/book-cover-1.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Theoretical background of Informatics, Natural Language Processing and Cybernetics. Developments in Quantum Information.
 
 
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Quantum Computing',
     Svg: require('../../static/img/book-cover-1.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Theoretical overview of Quantum Computing technologies, Quantum Cryptography, and Quantum Information. Practical examples and experiments with quantum algorithms.
+      </>
+    ),
+  },
+  {
+    title: 'Data Science',
+    Svg: require('../../static/img/book-cover-1.svg').default,
+    description: (
+      <>
+        The example books are focused on Data Science and Data Management applications. Check out <code>books</code> directory.
+      </>
+    ),
+  },
+  {
+    title: 'Applied Informatics',
+    Svg: require('../../static/img/book-cover-1.svg').default,
+    description: (
+      <>
+        Informatics in Scientific Research, Data Management and Analysis. Using tools of Data Scientist in application in natural science applications.
+
 
       </>
     ),
   },
+  {
+    title: 'Open Source Toolbox',
+    Svg: require('../../static/img/book-cover-1.svg').default,
+    description: (
+      <>
+        Software used in the example tutorials is open source and readily available to download, install and use.
+      </>
+    ),
+  },
+  {
+    title: 'Easy to Access',
+    Svg: require('../../static/img/book-cover-1.svg').default,
+    description: (
+      <>
+        All books and articles in the project are open access. The publishing framework of the project is tailored to be easily read on mobile devices.
+      </>
+    ),
+  },
+
 ];
 
 function Feature({Svg, title, description}) {
