@@ -4,7 +4,9 @@ sidebar_label: Abstract
 pagination_label: Data Wrangler's Notebook
 ---
 
-# Introduction!
+# Data Wrangler's Notebook
+
+This practical handbooks shows basic principles of data processing and visualization.
 
 - R
 - Python
@@ -15,4 +17,5 @@ pagination_label: Data Wrangler's Notebook
 
 ## What's next?
 
-Data Science Basics
+- Data Science Basics
+- Data Collection
