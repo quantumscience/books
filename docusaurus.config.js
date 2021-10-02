@@ -108,7 +108,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Daniel Sandner. The content of this project itself is licensed under the <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons (CC BY-NC-ND 4.0) license</a>, and the underlying source code used to format and display that content is licensed under the <a href="https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md">MIT license</a>.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Daniel Sandner. The content of this project itself is licensed under the <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons (CC BY-NC-ND 4.0) license</a>, and the underlying source code used to format and display that content is licensed under the <a href="https://github.com/quantumscience/books/blob/main/LICENSE">MIT license</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
