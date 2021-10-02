@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Information Theory',
-    Svg: require('../../static/img/book-cover-1.svg').default,
+    Svg: require('../../static/img/book-01-informationtheory.svg').default,
     description: (
       <>
         Theoretical background of Informatics, Natural Language Processing and Cybernetics. Developments in Quantum Information.
@@ -16,7 +16,7 @@ const FeatureList = [
   },
   {
     title: 'Quantum Computing',
-    Svg: require('../../static/img/book-cover-1.svg').default,
+    Svg: require('../../static/img/book-02-quantumcomputing.svg').default,
     description: (
       <>
         Theoretical overview of Quantum Computing technologies, Quantum Cryptography, and Quantum Information. Practical examples and experiments with quantum algorithms.
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Data Science',
-    Svg: require('../../static/img/book-cover-1.svg').default,
+    Svg: require('../../static/img/book-03-datascience.svg').default,
     description: (
       <>
         The example books are focused on Data Science and Data Management applications. Check out <code>books</code> directory.
@@ -34,7 +34,7 @@ const FeatureList = [
   },
   {
     title: 'Applied Informatics',
-    Svg: require('../../static/img/book-cover-1.svg').default,
+    Svg: require('../../static/img/book-04-appliedinformatics.svg').default,
     description: (
       <>
         Informatics in Scientific Research, Data Management and Analysis. Using tools of Data Scientist in application in natural science applications.
@@ -45,7 +45,7 @@ const FeatureList = [
   },
   {
     title: 'Open Source Toolbox',
-    Svg: require('../../static/img/book-cover-1.svg').default,
+    Svg: require('../../static/img/book-05-opensource.svg').default,
     description: (
       <>
         Software used in the example tutorials is open source and readily available to download, install and use.
@@ -54,7 +54,7 @@ const FeatureList = [
   },
   {
     title: 'Easy to Access',
-    Svg: require('../../static/img/book-cover-1.svg').default,
+    Svg: require('../../static/img/book-06-access.svg').default,
     description: (
       <>
         All books and articles in the project are open access. The publishing framework of the project is tailored to be easily read on mobile devices.

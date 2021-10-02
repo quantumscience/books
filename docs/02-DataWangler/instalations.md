@@ -68,6 +68,8 @@ conda install -c anaconda spyder
 ### Version Management
 For some scientific packages, you may need a specific version of programming language or environment.
 ### Environments
+### Channels
+
 
 :::note
 Goals.
