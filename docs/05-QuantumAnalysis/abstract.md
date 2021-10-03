@@ -1,8 +1,11 @@
 ---
 sidebar_position: 2
+sidebar_label: Abstract
+pagination_label: Quantum Computing and Data Analysis
 ---
 
-# Introduction!
+# Quantum Computing and Data Analysis
+## Abstract
 
 Critical Path, Agile, Waterfall
 
