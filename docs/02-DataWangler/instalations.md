@@ -12,38 +12,57 @@ Goals.
 
 - illustration
 - data scraping, data analysis
+- Basic Toolbox
+
 
 :::note
-In this book, we will use Anaconda Navigator to manage our data science packages. It is good for version management and general overview of packages installed on your system, especially for a beginner.
+In this book, we will use Anaconda and Anaconda Navigator to manage our data science packages. It is good for version management and general overview of packages installed on your system, especially for a beginner.
 :::
-## Anaconda
+## Anaconda or Miniconda?
 
-- Basic Toolbox
-M
-
-### Windows
-
-### Linux
-
-```bash
-npm run build
-```
-
-## Miniconda
-
-- Minimalized installation
-
-### Windows
-
-```bash
-winget install miniconda3
-```
-
-Installs Anaconda Prompt and Anaconda Powershell Prompt.
+Miniconda is minimalized version of Anaconda. You may install any of them, we will setup the environments and software later in the chapter anyways.
 
 
+import Tabs from '@theme/Tabs';
 
-### Linux
+import TabItem from '@theme/TabItem';
+
+:::info Anaconda and Miniconda Installations
+
+<Tabs
+  defaultValue="windows"
+  values={[
+    {label: 'Windows', value: 'windows'},
+    {label: 'Linux', value: 'linux'},
+    {label: 'macOS', value: 'apple'},
+  ]}>
+  <TabItem value="windows">For Anaconda installation, run Windows Terminal as Administrator
+
+  ```bash
+  winget install anaconda3
+  ```
+Alternatively, for Miniconda installation:
+
+  ```bash
+  winget install miniconda3
+  ```
+  </TabItem>
+  <TabItem value="linux">
+  For Anaconda installation, run this command in Terminal of your choice
+
+  ```bash
+  sudo snap install anaconda3
+  ```
+Alternatively, for Miniconda installation:
+
+  ```bash
+  sudo snap install miniconda3
+  ```
+  </TabItem>
+  <TabItem value="apple">This is an apple 🍎</TabItem>
+</Tabs>
+
+:::
 
 ### Conda Installations of Packages
 
@@ -55,9 +74,7 @@ Installs Anaconda Prompt and Anaconda Powershell Prompt.
 
 - Orange Data Visualization
 
-```bash
-conda install -c anaconda anaconda-navigator
-```
+
 
 ```bash
 conda install -c anaconda spyder
@@ -72,6 +89,14 @@ conda install anaconda=VersionNumber
 ```
 
 ## Meet Anaconda Navigator
+
+:::info setup for miniconda users
+
+```bash
+conda install -c anaconda anaconda-navigator
+```
+
+:::
 - image
 ### Version Management
 For some scientific packages, you may need a specific version of programming language or environment.
@@ -92,9 +117,6 @@ Goals.
 Goals.
 :::
 
-import Tabs from '@theme/Tabs';
-
-import TabItem from '@theme/TabItem';
 
 :::tip Use tabs in admonitions
 
