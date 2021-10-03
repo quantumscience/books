@@ -4,20 +4,22 @@ sidebar_position: 2
 
 # Installations
 
-What we will need for this book?
-
-:::note
-Goals.
-:::
+What we will need for this book? Package manager and installations of tools needed for data analysis, visualisation and development.
 
 - illustration
 - data scraping, data analysis
 - Basic Toolbox
 
-
 :::note
-In this book, we will use Anaconda and Anaconda Navigator to manage our data science packages. It is good for version management and general overview of packages installed on your system, especially for a beginner.
+In this book, we will use Anaconda distribution platform and Anaconda Navigator to manage our data science packages. It is good for version management and general overview of packages installed on your system, especially for a beginner.
 :::
+
+In this chapter, we will:
+1. Install Anaconda (and learn how to setup Miniconda for the examples)
+2. Update and check the software packages
+3. Learn how to install packages via Anaconda Terminal and Anaconda Navigator
+4. Explore Anaconda Navigator, Channels and Environments
+
 ## Anaconda or Miniconda?
 
 Miniconda is minimalized version of Anaconda. You may install any of them, we will setup the environments and software later in the chapter anyways.

@@ -9,7 +9,13 @@ Dataset is a data collection, mostly in some database format.
 - data scraping
 - cleaning and repairing datasets
 
- 
+## Using PHP and MySQL
+PHP (Hypertext Preprocessor) is server-side scripting programming language and it is used for interacting with MySQL databases.
+
+- what we can use it for
+- data science applications
+- updating and writing data
+
 :::note
 Goals.
 :::
