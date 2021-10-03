@@ -16,6 +16,23 @@ PHP (Hypertext Preprocessor) is server-side scripting programming language and i
 - data science applications
 - updating and writing data
 
+## Web scraping
+
+Collecting data from web sources is called web scraping.
+
+We can use python for HTML parsing and then clean the data.
+
+- BeautifulSoup
+
+In Anaconda prompt, install BeautifulSoup:
+```bash
+conda install beautifulsoup4
+```
+
+- Scrape the webpages!
+- Clean the data
+
+
 :::note
 Goals.
 :::

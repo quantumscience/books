@@ -103,7 +103,23 @@ conda install -c anaconda anaconda-navigator
 ### Version Management
 For some scientific packages, you may need a specific version of programming language or environment.
 ### Environments
+You may create separate environments with separate installations of software, versions, and files.
 ### Channels
+Channels are locations of *software repositories*.
+
+You can add a channel with Channels function of Anaconda-navigator, for instance:
+
+```bash
+https://conda.anaconda.org/conda-forge/
+```
+
+Or you can use conda command from Anaconda prompt:
+
+```bash
+conda config --add channels conda-forge
+```
+
+To remove a channel use trash icon in the channels list.
 
 
 :::note
