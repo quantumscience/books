@@ -12,6 +12,7 @@ Fundamental concepts of open access and opensource in science and research. Why 
 
 Alternative title Open Access and Open Source in Scientific Research and Cultural Sustainability.
 
+:::info subjects
 ## What's next?
 
 - Economic system and models of knowledge stewardship
@@ -20,6 +21,7 @@ Alternative title Open Access and Open Source in Scientific Research and Cultura
 - Hidden soft spots of proprietary approach
 - Open Access in science and self sustained economic mechanisms
 - Open source as a safeguard in art, science, and technology
+:::
 
 ## Cover
 ![image](./images/book-cover-open-3b.svg)

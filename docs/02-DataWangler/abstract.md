@@ -18,6 +18,7 @@ We will learn basics of:
 - Jupyter Notebooks
 - Orange Data Visualization
 - Neural Networks and Deep Learning Algorithms
+
 :::
 
 We will use **Anaconda** Python distribution platform and **conda** as package manager. The instructions will be for Windows and Linux installations.
