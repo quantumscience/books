@@ -7,20 +7,14 @@ pagination_label: Quantum Computing and Data Analysis
 # Quantum Computing and Data Analysis
 ## Abstract
 
-Critical Path, Agile, Waterfall
-
-You have just entered the **Book 1** and made some changes to the **initial template**.
-
-Docusaurus has **much more to offer**!
-
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
-
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+Analysing the data flow from Quantum Computing Devices (QCD). Predictive prospects of quantum computers. Comparison with parallel computing and advanced neural networking.
 
 ## What's next?
 
-- Read the [official documentation](https://docusaurus.io/).
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+- specifics of quantum computing
+- concepts of quantum device
+- data collection and quantum experiments
+- creating insights and comparisons of quantum solutions
+- quantum data analysis using parallel neural networks
+- quantum algorithms, networking, and perspectives of development
+- future of quantum designs  

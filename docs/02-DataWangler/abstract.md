@@ -13,11 +13,11 @@ We will learn basics of:
 - Data Management
 - Data Wrangling
 - Time-Series Forecasting
-- R
+- R, R-Studio
 - Python
 - Jupyter Notebooks
 - Orange Data Visualization
-- neural networks and deep learning algorithms
+- Neural Networks and Deep Learning Algorithms
 :::
 
 We will use **Anaconda** Python distribution platform and **conda** as package manager. The instructions will be for Windows and Linux installations.
