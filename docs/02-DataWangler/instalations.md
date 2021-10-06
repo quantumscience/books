@@ -12,6 +12,9 @@ What we will need for this book? Package manager and installations of tools need
 
 :::note
 In this book, we will use Anaconda distribution platform and Anaconda Navigator to manage our data science packages. It is good for version management and general overview of packages installed on your system, especially for a beginner.
+
+![image](./images/miniconda.png)
+
 :::
 
 In this chapter, we will:
@@ -48,18 +51,29 @@ Alternatively, for Miniconda installation:
   ```bash
   winget install miniconda3
   ```
+  ```bash
+  conda install -c anaconda anaconda-navigator
+  ```
   </TabItem>
   <TabItem value="linux">
-  For Anaconda installation, run this command in Terminal of your choice
+
+  For Anaconda or Miniconda installation, you will need individual installers. You can download the miniconda installer from https://conda.io/miniconda.html and Anaconda installer from https://www.anaconda.com/products/individual.
+
+  1. Download the .sh installer
+  2. Make executable
+  3. Choose **Run in terminal** option
+  4. Accept license, and confirm running conda init
+  5. Go to ~file/miniconda3/bin, open terminal in the directory
+  6. Install anaconda navigator:
 
   ```bash
-  sudo snap install anaconda3
+  conda install -c anaconda anaconda-navigator
   ```
-Alternatively, for Miniconda installation:
 
-  ```bash
-  sudo snap install miniconda3
-  ```
+  7. Run Anaconda Navigator
+  8. If the window is too zoomed in on your system, go to **File ‣ Preferences** and uncheck *Enable high DPI scaling*. Restart Anaconda Navigator.
+
+
   </TabItem>
   <TabItem value="apple">This is an apple 🍎</TabItem>
 </Tabs>

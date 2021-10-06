@@ -1,18 +1,34 @@
 ---
-sidebar_position: 11
+sidebar_position: 10
 ---
 
-# Notes
-# Python Notes
-For Python installation, run this command in Terminal of your choice
+# Addendum: Research with Python on Google Colaboratory
+You may run Jupyter notebooks in a cloud:
+
+https://colab.research.google.com/
+
+## Start
+
+- list of cells
+- allocating resources
+
+## Data Management and Workflow
+
+- import and format data
+- train model
+- create prediction
+
+## Deploy
 
 ```bash
-sudo apt install python3-pip
+pip install neuralprophet
 ```
 
 ```bash
-sudo pip install conda
+pip install neuralprophet[live]
 ```
+
+- test data
 
 :::note
 Goals.
