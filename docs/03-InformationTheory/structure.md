@@ -8,7 +8,7 @@ sidebar_position: 2.5
 
 Dependence and independence of information bits and structures is an important factor in analyzing data and creating insights.
 
-## Information Cells
+## Types of Interactions
 - independent and dependent
 - linear and nonlinear dependency
 - causal and non-causal connections
