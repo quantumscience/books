@@ -4,6 +4,9 @@ sidebar_position: 7
 
 # Introducing Jupyter
 Fundamentals and practice in Jupyter Notebook and Jupyter Lab.
+
+Jupyter notebook is an interactive environment for computation. It suports Julia, R, and Python. Jupyter Lab is a modular user interface.
+
 - writing and running Jupyter Notebooks
 
 :::note
