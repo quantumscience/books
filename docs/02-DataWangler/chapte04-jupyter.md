@@ -9,6 +9,18 @@ Jupyter notebook is an interactive environment for computation. It suports Julia
 
 - writing and running Jupyter Notebooks
 
+## Jupyter Notebook and Jupyter Lab
+
+
+## Terminal commands
+
+You can run terminal commands in a cell.
+
+```bash
+!conda --version
+!conda --help
+```
+
 :::note
 Goals.
 :::
