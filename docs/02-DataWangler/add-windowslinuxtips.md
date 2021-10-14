@@ -74,6 +74,9 @@ In case of error message (**OEM Lock**), proceed as follows:
 You may choose from Linux distributions for WSL. Enter `wsl --list --online`. To install the selected distro (Ubuntu, Debian etc.), open **Terminal as administrator** and enter:
 
 ```bash
+wsl --update
+```
+```bash
 wsl --install -d Ubuntu
 ```
 ![image](./images/wsl-ubuntu.png)
@@ -95,7 +98,7 @@ Apps for Linux *can* run in window GUI; graphically demanding apps are  slower. 
 
 The WSLg mode is usefull for scientific applications and utilities. The ability to run bash commands quickly is great for testing and exploring.
 
- 
+
 ```bash
 pip install neuralprophet
 ```
