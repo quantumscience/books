@@ -76,6 +76,10 @@ You may choose from Linux distributions for WSL. Enter `wsl --list --online`. To
 ```bash
 wsl --install -d Ubuntu
 ```
+![image](./images/wsl-ubuntu.png)
+
+Restart the system.
+
 #### More info:
 
 https://github.com/microsoft/wslg
