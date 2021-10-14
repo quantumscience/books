@@ -31,13 +31,15 @@ You can run additional Quake style top terminal with <kbd>Win</kbd>+<kbd>\`</kbd
 
 ### Basic Commands
 - `schcm` Show-Command to show commands
--
+- Systeminfo
+- Get-WmiObject Win32_VideoController | Select description,driverversion
+
 ### Cmdlets
 ### Powershell ISE
 ### Using  Powershell in Examples
 - ConvertTo-Csv
 - Format-Table ft
-
+- data conversion
 
 ![image](./images/powershell-02.png)
 
@@ -49,18 +51,34 @@ You can run Linux apps directly from Windows environment. Windows Subsystem for 
 
 Running Linux Apps on Windows.
 ### Installing Linux on Windows?
-You may choose from Linux distributions for WSL. Enter `wsl --list --online`. To install the selected distro:
+
+:::info Graphic drivers for WSL
+You may need an installation of dedicated latest graphic drivers (Intel, NVidia, AMD) for OPENGL support on WSLg Linux
+
+|        | Experimental WSL Driver                                                            |
+|--------|------------------------------------------------------------------------------------|
+| Intel  | https://downloadcenter.intel.com/download/30579/Intel-Graphics-Windows-DCH-Drivers |
+| NVIDIA | https://developer.nvidia.com/cuda/wsl                                              |
+| AMD    | https://www.amd.com/en/support/kb/release-notes/rn-rad-win-wsl-support             |
+|        |                                                                                    |
+
+In case of error message (**OEM Lock**), proceed as follows:
+1. Download the (latest) version of driver
+2. Disconnect from the internet
+3. Open Device Manager
+4. Find the Graphic Adapter, right click it and choose Remove device from the menu
+5. Install the latest driver and reboot
+
+:::
+
+You may choose from Linux distributions for WSL. Enter `wsl --list --online`. To install the selected distro (Ubuntu, Debian etc.), open **Terminal as administrator** and enter:
 
 ```bash
 wsl --install -d Ubuntu
 ```
-More info:
+#### More info:
 
 https://github.com/microsoft/wslg
-
-Installation of dedicated drivers (Intel, NVidia, AMD)
-- for OPENGL on WSLg Linux
-- choose (Latest) version of drivers
 
 ### Useful Apps
 
