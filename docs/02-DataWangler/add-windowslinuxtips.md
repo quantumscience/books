@@ -1,0 +1,182 @@
+---
+sidebar_position: 11
+---
+
+# Addendum: Windows and Linux Tips
+In this section you will find some tips useful to both Linux and Windows users.
+
+## Powershell for Data Science
+
+On W11, you have already installed Windows Terminal and Powershell 5.1 (older stable), which can be run by command `powershell`. It is residing in **$env:Windows\System32\WindowsPowerShell**. You can check Powershell version by command `$PSVersionTable`.
+
+You  can install development version into **$env:ProgramFiles\PowerShell\7**:
+
+```bash
+winget install --id microsoft.powershell.preview
+```
+You can run this version with `pwsh-preview` command from any terminal.
+
+![image](./images/powershell-01.png)
+
+You can switch shell environments by shortcuts or dropdown menu. In **Settings**, you can change the default behavior, colors, font, background image, and acrylic effects.
+
+![image](./images/powershell-03.png)
+
+You can split Terminal window vertically with <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>+</kbd> and horizontally with <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>.
+
+You can run additional Quake style top terminal with <kbd>Win</kbd>+<kbd>\`</kbd>
+
+![image](./images/powershell-04-quake.png)
+
+
+### Basic Commands
+- `schcm` Show-Command to show commands
+-
+### Cmdlets
+### Powershell ISE
+### Using  Powershell in Examples
+- ConvertTo-Csv
+- Format-Table ft
+
+
+![image](./images/powershell-02.png)
+
+
+## Linux on Windows
+You can run Linux apps directly from Windows environment. Windows Subsystem for Linux GUI (WSLg) is subsystem for displaying X11 and Wayland GUI applications.
+
+### WSL and WSLg
+
+Running Linux Apps on Windows.
+### Installing Linux on Windows?
+You may choose from Linux distributions for WSL. Enter `wsl --list --online`. To install the selected distro:
+
+```bash
+wsl --install -d Ubuntu
+```
+More info:
+
+https://github.com/microsoft/wslg
+
+Installation of dedicated drivers (Intel, NVidia, AMD)
+- for OPENGL on WSLg Linux
+- choose (Latest) version of drivers
+
+### Useful Apps
+
+```bash
+# Import math Library
+import math
+a = 2*(math.pi)
+a
+```
+
+- Connect the notebook with the Connect button
+- Run the script. The output should be the value of *"a"* rounded, 6.283185307179586
+- mathematical expressions are entered into *text cells* with LaTeX syntax via MathJax (just enclose the LaTeX expression with $, for equation block use $$)
+
+
+```bash
+$$E_\alpha = \int_0^{2\pi} \cos(x) dx $$
+
+```
+
+![image](./images/googlecolab-equation.png)
+
+- you can move cells up and down, and add them with
+- list of cells
+
+### Python
+- allocating resources
+- shortcuts are combined, like <kbd>Ctrl+M</kbd>+<kbd>I</kbd> to interrupt a process, or <kbd>Ctrl+M</kbd>+<kbd>Z</kbd> to undo
+
+## Data Management and Workflow
+
+Note that GC is integrated with Google Drive.
+
+- import and format data
+- share data
+- train model
+- create prediction
+
+## Deploy
+
+## Google Colab for Data Science Examples
+
+```bash
+pip install neuralprophet
+```
+
+```bash
+pip install neuralprophet[live]
+```
+
+- test data
+
+:::note
+Goals.
+:::
+:::info
+Goals.
+:::
+:::caution
+Goals.
+:::
+:::warning
+Goals.
+:::
+
+import Tabs from '@theme/Tabs';
+
+import TabItem from '@theme/TabItem';
+
+:::tip Use tabs in admonitions
+
+<Tabs
+  defaultValue="apple"
+  values={[
+    {label: 'Apple', value: 'apple'},
+    {label: 'Orange', value: 'orange'},
+    {label: 'Banana', value: 'banana'},
+  ]}>
+  <TabItem value="apple">This is an apple 🍎
+
+  ```bash
+  npm run build
+  ```
+  </TabItem>
+  <TabItem value="orange">This is an orange 🍊</TabItem>
+  <TabItem value="banana">This is a banana 🍌</TabItem>
+</Tabs>
+
+:::
+
+```md title="docs/hello.md"
+# Hello
+
+This is my **first Docusaurus document**!
+```
+
+```bash
+# Hello
+
+This is my **first Docusaurus document**!
+```
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+chaptertest
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
+
+Em Dash (—) En Dash (–)
+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>0</kbd>
+
+**Soubor ‣ Nový ‣ Obecné**. (*File ‣ New ‣ General*)
