@@ -78,53 +78,24 @@ wsl --install -d Ubuntu
 ```
 ![image](./images/wsl-ubuntu.png)
 
-Restart the system.
+Restart the system. After the installation finishes, restart again.
 
+![image](./images/wsl-ubuntu01.png)
+
+:::note
+Snap package manager (snapd) although is not yet functional in WSLg. You can install apps via `sudo apt install` only (in the Ubuntu case).  
+:::
 #### More info:
 
 https://github.com/microsoft/wslg
 
 ### Useful Apps
 
-```bash
-# Import math Library
-import math
-a = 2*(math.pi)
-a
-```
+Apps for Linux *can* run in window GUI; graphically demanding apps are  slower. Some are reasonably stable, until the window is  resized considerably.
 
-- Connect the notebook with the Connect button
-- Run the script. The output should be the value of *"a"* rounded, 6.283185307179586
-- mathematical expressions are entered into *text cells* with LaTeX syntax via MathJax (just enclose the LaTeX expression with $, for equation block use $$)
+The WSLg mode is usefull for scientific applications and utilities. The ability to run bash commands quickly is great for testing and exploring.
 
-
-```bash
-$$E_\alpha = \int_0^{2\pi} \cos(x) dx $$
-
-```
-
-![image](./images/googlecolab-equation.png)
-
-- you can move cells up and down, and add them with
-- list of cells
-
-### Python
-- allocating resources
-- shortcuts are combined, like <kbd>Ctrl+M</kbd>+<kbd>I</kbd> to interrupt a process, or <kbd>Ctrl+M</kbd>+<kbd>Z</kbd> to undo
-
-## Data Management and Workflow
-
-Note that GC is integrated with Google Drive.
-
-- import and format data
-- share data
-- train model
-- create prediction
-
-## Deploy
-
-## Google Colab for Data Science Examples
-
+ 
 ```bash
 pip install neuralprophet
 ```
