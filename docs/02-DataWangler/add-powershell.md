@@ -3,11 +3,26 @@ sidebar_position: 11
 ---
 
 # Addendum: Powershell for Data Science
-In this section you will find some tips for using Powershell for Data Science tasks. Powershell is both scripting and  command-line shell which offers powerful commands for performing data conversions, sorting and processing.
+In this section you will find some tips for using Powershell for Data Science tasks. Powershell is both scripting and command-line shell which offers powerful commands for performing data conversions, sorting and processing.
 
 ## What Are the Advantages?
+You can process data from various sources in the terminal console. You can run several processes simultaneously in separate, tabbed or splitted terminal windows.
+### Pipelines
+With pipeline operator **|** you combine commands into command pipeline.
+
+```
+Get-ChildItem -Path *.* | Format-Table -Property name, length
+```
+The commands are executed linearly from left to right, output is shown in terminal and can be saved to a file. Try to execute the pipeline in Quake console <kbd>Win</kbd>+<kbd>\`</kbd>.
+
+### Cmdlets
+Cmdlets are prepared functions you can simply call. You can pipe cmdlets with the same noun.
+:::note
+For help on a command use `Get-Help "cmdlet name"`, to download help files use `Update-Help`.
+:::
 ## Powershell Tools for Data Processing
-### Development Versions
+- Powershell works with CSV, JSON and XML formats
+### Development Versions and Installation
 
 On W11, you have already installed Windows Terminal and Powershell 5.1 (older stable), which can be run by command `powershell`. It is residing in **$env:Windows\System32\WindowsPowerShell**. You can check Powershell version by command `$PSVersionTable`.
 
