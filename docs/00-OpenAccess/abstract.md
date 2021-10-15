@@ -23,5 +23,9 @@ Alternative title Open Access and Open Source in Scientific Research and Cultura
 - Open source as a safeguard in art, science, and technology
 :::
 
+## Open Access and Open Source in Scientific Research
+- Need for open systems
+- Data collection and processing
+- Toolkits 
 ## Cover
 ![image](./images/book-cover-open-3b.svg)

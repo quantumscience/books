@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 
-# Addendum: Research with Python on Google Colaboratory
+# Research with Google Colaboratory
 You may run Jupyter notebooks in a cloud:
 
 https://colab.research.google.com/

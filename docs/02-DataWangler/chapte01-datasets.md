@@ -32,6 +32,7 @@ conda install beautifulsoup4
 - Scrape the webpages!
 - Clean the data
 
+## Creating Data Frames
 
 :::note
 Goals.

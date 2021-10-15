@@ -1,48 +1,9 @@
 ---
-sidebar_position: 11
+sidebar_position: 12
 ---
 
 # Addendum: Windows and Linux Tips
 In this section you will find some tips useful to both Linux and Windows users.
-
-## Powershell for Data Science
-
-On W11, you have already installed Windows Terminal and Powershell 5.1 (older stable), which can be run by command `powershell`. It is residing in **$env:Windows\System32\WindowsPowerShell**. You can check Powershell version by command `$PSVersionTable`.
-
-You  can install development version into **$env:ProgramFiles\PowerShell\7**:
-
-```bash
-winget install --id microsoft.powershell.preview
-```
-You can run this version with `pwsh-preview` command from any terminal.
-
-![image](./images/powershell-01.png)
-
-You can switch shell environments by shortcuts or dropdown menu. In **Settings**, you can change the default behavior, colors, font, background image, and acrylic effects.
-
-![image](./images/powershell-03.png)
-
-You can split Terminal window vertically with <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>+</kbd> and horizontally with <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>.
-
-You can run additional Quake style top terminal with <kbd>Win</kbd>+<kbd>\`</kbd>
-
-![image](./images/powershell-04-quake.png)
-
-
-### Basic Commands
-- `schcm` Show-Command to show commands
-- Systeminfo
-- Get-WmiObject Win32_VideoController | Select description,driverversion
-
-### Cmdlets
-### Powershell ISE
-### Using  Powershell in Examples
-- ConvertTo-Csv
-- Format-Table ft
-- data conversion
-
-![image](./images/powershell-02.png)
-
 
 ## Linux on Windows
 You can run Linux apps directly from Windows environment. Windows Subsystem for Linux GUI (WSLg) is subsystem for displaying X11 and Wayland GUI applications.
