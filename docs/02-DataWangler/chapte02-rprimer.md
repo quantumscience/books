@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 
 # R Primer
-Basics of R.
+Basics of R. Programming with statistical analysis.
 - using R Studio
 - using Jupyter
 - data processing
