@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 
 # R Primer
-Basics of R. Programming with statistical analysis.
+Basics of R. Programming with statistical analysis. Advantages of R. Special commands and data processing.
 - using R Studio
 - using Jupyter
 - data processing
