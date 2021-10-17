@@ -13,8 +13,10 @@ With pipeline operator **|** you combine commands into command pipeline.
 ```
 Get-ChildItem -Path *.* | Format-Table -Property name, length
 ```
-The commands are executed linearly from left to right, output is shown in terminal and can be saved to a file. Try to execute the pipeline in Quake console <kbd>Win</kbd>+<kbd>\`</kbd>.
-
+The commands are executed linearly from left to right, output is shown in terminal and can be saved to a file. Try to execute the pipeline in Quake console <kbd>Win</kbd>+<kbd>\`</kbd> (a Terminal must be run before first use of the console in booted Windows).
+:::info
+You can pipe commands, for example to cmd.exe. Try to enter `"dir" | cmd`, `"netstat -o" | cmd` or `"cmdkey /list" | cmd` into PS.
+:::
 ### Cmdlets
 Cmdlets are prepared functions you can simply call. You can pipe cmdlets with the same noun.
 :::note
@@ -90,8 +92,13 @@ Format-Table Count,Name -AutoSize
 - data conversion
 
 ![image](./images/powershell-02.png)
+## Basic Powershell Commands
 
+- start app `Start-Process -FilePath "path.exe"`
+- open file `& .\filename.ext`
 
+You can run Powershell commands from cmd terminal `Powershell.exe -Command "Write-Output 'Hello world'"
+Hello world``
 
 ```bash
 pip install neuralprophet

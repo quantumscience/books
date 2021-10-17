@@ -33,7 +33,7 @@ conda install beautifulsoup4
 - Clean the data
 
 ## Creating Data Frames
-
+- on-premises and cloud data platforms
 :::note
 Goals.
 :::
