@@ -3,6 +3,7 @@ sidebar_position: 7
 ---
 
 # Introducing Jupyter Notebook and Jupyter Lab
+
 Fundamentals and practice in Jupyter Notebook and Jupyter Lab.
 
 Jupyter notebook is an interactive environment for computation. It supports Julia, R, Python, and various other kernels. Jupyter Lab is a modular user interface.
@@ -23,6 +24,7 @@ To install the kernel for R, **use Anaconda Prompt** command for an active envir
 ```
 conda install -c r r-essentials
 ```
+
 ### Julia
 
 For Julia kernel, create new Python environment (f.i. julia-env), change active environment `activate julia-env`.
@@ -30,11 +32,16 @@ For Julia kernel, create new Python environment (f.i. julia-env), change active 
 Download and install the current version from https://julialang.org/downloads/.
 
 Run Julia. In Julia command line enter:
+
 ```
 using Pkg
 Pkg.add("IJulia")
 ```
+
 After installation, the kernel option will show in JupyterLab.
+
+- enter Julia Pkg REPL-mode with <kbd>Square bracket</kbd>, exit with <kbd>Backspace</kbd>
+
 
 
 ## Terminal commands
