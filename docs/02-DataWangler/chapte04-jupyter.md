@@ -40,7 +40,7 @@ Pkg.add("IJulia")
 
 After installation, the kernel option will show in JupyterLab.
 
-- enter Julia Pkg REPL-mode with <kbd>Square bracket</kbd>, exit with <kbd>Backspace</kbd>
+- enter Julia Pkg REPL-mode with <kbd>\[</kbd>, exit with <kbd>Backspace</kbd>
 
 
 
