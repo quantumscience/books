@@ -1,48 +1,23 @@
 ---
-sidebar_position: 5
+sidebar_position: 4.1
 ---
 
-# Datasets, Data Mining, and Process Mining
-Dataset is a data collection, mostly in some database format.
-- .csv format
-- where to get datasets
-- data scraping
-- cleaning and repairing datasets
-- data frames and its flavors
+# Data Structures and Programming Languages
 
-## Using PHP and MySQL
-PHP (Hypertext Preprocessor) is server-side scripting programming language and it is used for interacting with MySQL databases.
+This chapter is focused on general principles of data processing. We will take a closer look on advantages on using language agnostic aproach to data science.
 
-- what we can use it for
-- data science applications
-- updating and writing data
 
-## Data Mining Techniques
-- Big Data
-- processing and cleaning
-- methods
+- logic and structure
+- performing tasks
+- data management
 
-## Web scraping
+Examples in Python, R, and Julia. (JX) Focus on Machine Learning and AI procedures.
 
-Collecting data from web sources is called web scraping.
-
-We can use python for HTML parsing and then clean the data.
-
-- BeautifulSoup
-
-In Anaconda prompt, install BeautifulSoup:
-```bash
-conda install beautifulsoup4
-```
-
-- Scrape the webpages!
-- Clean the data
-
-## Creating Data Frames
-- on-premises and cloud data platforms
-
-## Process Mining
-- insights on how things work
+## Variables and Functions
+## Logic Operations
+## Data Processing
+## Input, Output, and Vizualization
+## Data Science Specifics
 
 :::note
 Goals.
