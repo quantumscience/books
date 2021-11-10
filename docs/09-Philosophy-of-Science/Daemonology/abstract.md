@@ -9,6 +9,9 @@ pagination_label: Daemonology in Past and Present Culture and Science
 
 Psychology of hermeneutics, occultism, and spiritual practice in development of science, technology and modern worldviews and paradigms.
 
+## Cover
+
+![image](./images/book-daemonology-2.svg)
 
 ## What's next?
 
