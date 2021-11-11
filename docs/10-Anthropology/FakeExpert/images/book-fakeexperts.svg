@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   sodipodi:docname="book-fakeexperts.svg"
+   inkscape:version="1.2-dev (2b1b0490, 2021-10-21)"
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 420 297"
+   height="297mm"
+   width="420mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.43604767"
+     inkscape:cx="907.01093"
+     inkscape:cy="358.90571"
+     inkscape:window-width="1920"
+     inkscape:window-height="989"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:blackoutopacity="0.0"
+     width="420mm">
+    <sodipodi:guide
+       position="268.2502,295.81187"
+       orientation="0,-1"
+       id="guide271" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter492"
+       x="-0.037768312"
+       y="-0.025934634"
+       width="1.1070102"
+       height="1.0734815">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood482" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite484" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur486" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset488" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite490" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path318926"
+       style="fill:none;fill-rule:evenodd;stroke:#ffd42a;stroke-width:1.165;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 51.060533,212.94461 7.255527,7.1689 7.255527,-7.1689"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#552200;stroke-width:1.665;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter492);stop-color:#000000;fill-opacity:1"
+       id="rect295"
+       width="190.636"
+       height="277.62103"
+       x="9.568284"
+       y="9.2924318"
+       ry="6.7798662" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.98959924px;line-height:1.25;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;stroke-width:0.264582"
+       x="33.641792"
+       y="127.5268"
+       id="text3458"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.98959924px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffcc00;stroke-width:0.264582"
+         x="33.641792"
+         y="127.5268"
+         id="tspan104345">Fake Experts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.43px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264582"
+       x="33.68803"
+       y="263.71399"
+       id="text6400"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.43px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264582"
+         x="33.68803"
+         y="263.71399"
+         id="tspan6398">Open Research </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Malgun Gothic';-inkscape-font-specification:'Malgun Gothic, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583;fill:#d4c1a0;fill-opacity:1"
+       x="76.852859"
+       y="178.72316"
+       id="text8414"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#d4c1a0;fill-opacity:1"
+         x="76.852859"
+         y="178.72316"
+         id="tspan13087">Models of Deception </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#d4c1a0;fill-opacity:1"
+         x="76.852859"
+         y="192.1707"
+         id="tspan189679">and Media Control</tspan></text>
+    <rect
+       style="fill:#ffd42a;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect42952"
+       width="1.3007299"
+       height="46.05336"
+       x="57.665695"
+       y="47.651554"
+       ry="0.58050454" />
+    <rect
+       style="fill:#ffd42a;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect43078"
+       width="1.3007299"
+       height="51.595619"
+       x="57.665695"
+       y="168.12524"
+       ry="0.65036494" />
+    <rect
+       style="fill:#ffd42a;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect43102"
+       width="1.3007299"
+       height="17.036633"
+       x="402.8689"
+       y="-30.038956"
+       ry="0.21474746"
+       transform="rotate(90)" />
+    <circle
+       style="fill:none;stroke:#ffd42a;stroke-width:2.46944;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="path43152"
+       cx="21.399437"
+       cy="397.38974"
+       r="22.112408" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#ffd42a;stroke-width:15.8175;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="path43292"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="-157.58951"
+       sodipodi:cy="205.09811"
+       sodipodi:r1="134.21965"
+       sodipodi:r2="67.109825"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -41.351882,272.20794 -232.475258,0 116.23763,-201.329476 z"
+       transform="matrix(0.1564438,0,0,0.155798,46.053345,366.6787)"
+       inkscape:transform-center-y="-5.227788"
+       inkscape:transform-center-x="-1.0962846e-06" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#ffd42a;stroke-width:6.40531;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path44397"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="-157.58951"
+       sodipodi:cy="205.09811"
+       sodipodi:r1="134.21965"
+       sodipodi:r2="67.109825"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.1519173"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -41.351882,272.20794 -88.941598,-5.80195 -55.20186,69.97875 -21.96649,-86.38139 -83.61206,-30.87546 75.36557,-47.58469 3.52676,-89.060838 68.54497,56.972438 85.791721,-24.16716 -33.002449,82.79559 z"
+       transform="matrix(-0.1564438,0,0,-0.155798,17.714076,482.83932)"
+       inkscape:transform-center-y="5.2277835" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#ffd42a;stroke-width:6.40531;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path44399"
+       inkscape:flatsided="true"
+       sodipodi:sides="5"
+       sodipodi:cx="-157.58951"
+       sodipodi:cy="205.09811"
+       sodipodi:r1="134.21965"
+       sodipodi:r2="67.109825"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.1519173"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M -41.351882,272.20794 -185.49534,336.38474 -291.07389,219.12789 -212.18156,82.482362 -57.844869,115.28764 Z"
+       transform="matrix(-0.1564438,0,0,-0.155798,17.714076,482.83932)"
+       inkscape:transform-center-y="5.2277835" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffd42a;stroke-width:0.264583"
+       x="76.852859"
+       y="203.93872"
+       id="text39229"><tspan
+         sodipodi:role="line"
+         id="tspan39223"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;text-anchor:middle;fill:#ffd42a;stroke-width:0.264583"
+         x="76.852859"
+         y="203.93872" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;text-anchor:start;fill:#ffd42a;stroke-width:0.264583"
+         x="76.852859"
+         y="214.52206"
+         id="tspan39227">Daniel Sandner</tspan></text>
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#800000;stroke-width:1.665;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter492);stop-color:#000000"
+       id="rect56424"
+       width="190.636"
+       height="277.62103"
+       x="514.76886"
+       y="9.2924318"
+       ry="6.7798662" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.43px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264582"
+       x="538.88861"
+       y="245.46959"
+       id="text56432"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.43px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264582"
+         x="538.88861"
+         y="245.46959"
+         id="tspan56430">Open Research </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.98959924px;line-height:1.25;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#007171;stroke-width:0.264582;fill-opacity:1"
+       x="33.641792"
+       y="153.5244"
+       id="text155876"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.98959924px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#007171;stroke-width:0.264582;fill-opacity:1"
+         x="33.641792"
+         y="153.5244"
+         id="tspan155874">Fake Rebels</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.9896px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;stroke-width:0.264582"
+       x="544.00256"
+       y="127.5268"
+       id="text223023"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.9896px;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;fill:#ffcc00;stroke-width:0.264582"
+         x="544.00256"
+         y="127.5268"
+         id="tspan223021">Fake Experts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Malgun Gothic';-inkscape-font-specification:'Malgun Gothic, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="587.21362"
+       y="178.72316"
+       id="text223029"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="587.21362"
+         y="178.72316"
+         id="tspan223025">Models of Deception </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="587.21362"
+         y="192.1707"
+         id="tspan223027">and Media Control</tspan></text>
+    <rect
+       style="fill:#ffd42a;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect223031"
+       width="1.3007299"
+       height="46.05336"
+       x="568.02643"
+       y="59.293232"
+       ry="0.58050454" />
+    <rect
+       style="fill:#ffd42a;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect223033"
+       width="1.3007299"
+       height="51.595619"
+       x="568.02643"
+       y="163.89197"
+       ry="0.65036494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffd42a;stroke-width:0.264583"
+       x="587.21362"
+       y="203.93872"
+       id="text223039"><tspan
+         sodipodi:role="line"
+         id="tspan223035"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;text-anchor:middle;fill:#ffd42a;stroke-width:0.264583"
+         x="587.21362"
+         y="203.93872" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;text-anchor:start;fill:#ffd42a;stroke-width:0.264583"
+         x="587.21362"
+         y="214.52206"
+         id="tspan223037">Daniel Sandner</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.9896px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;stroke-width:0.264582"
+       x="544.00256"
+       y="153.5244"
+       id="text223043"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.9896px;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;fill:#ffcc00;stroke-width:0.264582"
+         x="544.00256"
+         y="153.5244"
+         id="tspan223041">Fake Rebels</tspan></text>
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#1c5b5b;stroke-width:1.665;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter492);stop-color:#000000;fill-opacity:1"
+       id="rect223292"
+       width="190.636"
+       height="277.62103"
+       x="215.2655"
+       y="9.2924318"
+       ry="6.7798662" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;line-height:1.25;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;stroke-width:0.264582"
+       x="239.33902"
+       y="67.216827"
+       id="text223296"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffcc00;stroke-width:0.264582"
+         x="239.33902"
+         y="67.216827"
+         id="tspan223294">Fake </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffcc00;stroke-width:0.264582"
+         x="239.33902"
+         y="95.953827"
+         id="tspan228112">Experts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.43px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264582;fill:#003535;fill-opacity:1"
+       x="239.38527"
+       y="268.03763"
+       id="text223300"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.43px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264582;fill:#003535;fill-opacity:1"
+         x="239.38527"
+         y="268.03763"
+         id="tspan223298">Open Research </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Malgun Gothic';-inkscape-font-specification:'Malgun Gothic, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583;fill:#fff6d5"
+       x="282.55011"
+       y="201.84521"
+       id="text223306"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#fff6d5"
+         x="282.55011"
+         y="201.84521"
+         id="tspan223302">Models of Deception </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#fff6d5"
+         x="282.55011"
+         y="215.29276"
+         id="tspan223304">and Media Control</tspan></text>
+    <rect
+       style="fill:#ffd42a;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect223310"
+       width="1.3007299"
+       height="51.595619"
+       x="263.36295"
+       y="187.01402"
+       ry="0.65036494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffd42a;stroke-width:0.264583"
+       x="282.55011"
+       y="227.06078"
+       id="text223316"><tspan
+         sodipodi:role="line"
+         id="tspan223312"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;text-anchor:middle;fill:#ffd42a;stroke-width:0.264583"
+         x="282.55011"
+         y="227.06078" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;text-anchor:start;fill:#ffd42a;stroke-width:0.264583"
+         x="282.55011"
+         y="237.64412"
+         id="tspan223314">Daniel Sandner</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;line-height:1.25;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#003535;stroke-width:0.264582;fill-opacity:1"
+       x="239.33902"
+       y="149.82028"
+       id="text223320"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#003535;stroke-width:0.264582;fill-opacity:1"
+         x="239.33902"
+         y="149.82028"
+         id="tspan223318">Fake </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#003535;stroke-width:0.264582;fill-opacity:1"
+         x="239.33902"
+         y="178.55728"
+         id="tspan235430">Rebels</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;line-height:1.25;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#003535;fill-opacity:1;stroke-width:0.264582"
+       x="239.33902"
+       y="122.39275"
+       id="text239858"
+       inkscape:transform-center-y="-8.2655497"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#003535;fill-opacity:1;stroke-width:0.264582"
+         x="239.33902"
+         y="122.39275"
+         id="tspan239856">&amp;</tspan></text>
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#552200;fill-opacity:1;stroke-width:1.665;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter492);stop-color:#000000"
+       id="rect281675"
+       width="190.636"
+       height="277.62103"
+       x="-249.6908"
+       y="9.2924318"
+       ry="6.7798662" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;line-height:1.25;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;stroke-width:0.264582"
+       x="-225.61728"
+       y="67.216827"
+       id="text281681"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffcc00;stroke-width:0.264582"
+         x="-225.61728"
+         y="67.216827"
+         id="tspan281677">Fake </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffcc00;stroke-width:0.264582"
+         x="-225.61728"
+         y="95.953827"
+         id="tspan281679">Experts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.43px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264582;fill:#008080"
+       x="-225.57103"
+       y="268.03763"
+       id="text281685"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.43px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264582;fill:#008080"
+         x="-225.57103"
+         y="268.03763"
+         id="tspan281683">Open Research </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Malgun Gothic';-inkscape-font-specification:'Malgun Gothic, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fff6d5;stroke-width:0.264583"
+       x="-182.40619"
+       y="201.84521"
+       id="text281691"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#fff6d5;stroke-width:0.264583"
+         x="-182.40619"
+         y="201.84521"
+         id="tspan281687">Models of Deception </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#fff6d5;stroke-width:0.264583"
+         x="-182.40619"
+         y="215.29276"
+         id="tspan281689">and Media Control</tspan></text>
+    <rect
+       style="fill:#ffd42a;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect281693"
+       width="1.3007299"
+       height="51.595619"
+       x="-201.59335"
+       y="187.01402"
+       ry="0.65036494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffd42a;stroke-width:0.264583"
+       x="-182.40619"
+       y="227.06078"
+       id="text281699"><tspan
+         sodipodi:role="line"
+         id="tspan281695"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;text-anchor:middle;fill:#ffd42a;stroke-width:0.264583"
+         x="-182.40619"
+         y="227.06078" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;text-anchor:start;fill:#ffd42a;stroke-width:0.264583"
+         x="-182.40619"
+         y="237.64412"
+         id="tspan281697">Daniel Sandner</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;line-height:1.25;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;stroke-width:0.264582"
+       x="-225.61728"
+       y="149.82028"
+       id="text281705"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffcc00;stroke-width:0.264582"
+         x="-225.61728"
+         y="149.82028"
+         id="tspan281701">Fake </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffcc00;stroke-width:0.264582"
+         x="-225.61728"
+         y="178.55728"
+         id="tspan281703">Rebels</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;line-height:1.25;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#007171;fill-opacity:1;stroke-width:0.264582"
+       x="-225.61728"
+       y="122.39275"
+       id="text281709"
+       inkscape:transform-center-y="-8.2655497"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#007171;fill-opacity:1;stroke-width:0.264582"
+         x="-225.61728"
+         y="122.39275"
+         id="tspan281707">&amp;</tspan></text>
+    <path
+       id="rect316059"
+       style="fill:none;fill-rule:evenodd;stroke:#ffd42a;stroke-width:1.165;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 53.95807,51.599155 4.35799,-4.097417 4.357991,4.097417"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="path318928"
+       style="fill:none;fill-rule:evenodd;stroke:#ffd42a;stroke-width:1.165;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 53.95807,214.9055 4.35799,4.09742 4.357991,-4.09742"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#552200;fill-opacity:1;stroke-width:1.665;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter492);stop-color:#000000"
+       id="rect319165"
+       width="190.636"
+       height="277.62103"
+       x="-522.57013"
+       y="9.2924318"
+       ry="6.7798662" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.0528px;line-height:1.25;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;stroke-width:0.264582"
+       x="-420.39932"
+       y="146.25298"
+       id="text319171"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.0528px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#ffcc00;stroke-width:0.264582"
+         x="-420.39932"
+         y="146.25298"
+         id="tspan319167">Fake </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.0528px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#ffcc00;stroke-width:0.264582"
+         x="-420.39932"
+         y="173.81897"
+         id="tspan319169">Experts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.43px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#008080;stroke-width:0.264582"
+       x="-498.45035"
+       y="268.03763"
+       id="text319175"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.43px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.264582"
+         x="-498.45035"
+         y="268.03763"
+         id="tspan319173">Open Research </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Malgun Gothic';-inkscape-font-specification:'Malgun Gothic, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fff6d5;stroke-width:0.264583"
+       x="-455.28552"
+       y="201.84521"
+       id="text319181"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#fff6d5;stroke-width:0.264583"
+         x="-455.28552"
+         y="201.84521"
+         id="tspan319177">Models of Deception </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#fff6d5;stroke-width:0.264583"
+         x="-455.28552"
+         y="215.29276"
+         id="tspan319179">and Media Control</tspan></text>
+    <rect
+       style="fill:#ffd42a;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect319183"
+       width="1.3007299"
+       height="51.595619"
+       x="-474.47269"
+       y="187.01402"
+       ry="0.65036494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffd42a;stroke-width:0.264583"
+       x="-455.28552"
+       y="227.06078"
+       id="text319189"><tspan
+         sodipodi:role="line"
+         id="tspan319185"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;text-anchor:middle;fill:#ffd42a;stroke-width:0.264583"
+         x="-455.28552"
+         y="227.06078" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;text-anchor:start;fill:#ffd42a;stroke-width:0.264583"
+         x="-455.28552"
+         y="237.64412"
+         id="tspan319187">Daniel Sandner</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.0528px;line-height:1.25;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#008080;stroke-width:0.264582"
+       x="-416.45422"
+       y="146.88019"
+       id="text319195"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.0528px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.264582"
+         x="-416.45422"
+         y="146.88019"
+         id="tspan319191">Fake </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.0528px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.264582"
+         x="-416.45422"
+         y="174.44618"
+         id="tspan319193">Rebels</tspan></text>
+  </g>
+</svg>

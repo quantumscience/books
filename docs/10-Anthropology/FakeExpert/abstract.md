@@ -9,6 +9,9 @@ pagination_label: Fake Expert and Fake Rebel
 
 Shifting public opinion with simulacrum. Using method of misleading public with artificially created personas.
 
+## Cover
+
+![image](./images/book-fakeexperts.svg)
 
 ## What's next?
 
