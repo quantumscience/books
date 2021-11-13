@@ -33,6 +33,17 @@ Test bibliography in markdown[<sup>1</sup>](#abcde), jump to other[<sup>2</sup>]
 3. 46„4Multimorbidity Patterns among COVID-19 Deaths: Proposal for the Construction of Etiological Models". Pan American Journal of Public Health. Viděno 12. listopad 2021. https://doi.org/10.26633/RPSP.2020.166.
 
 #### Specification
+
+Elsevier Lal, S.K. (Ed.), 2010. Molecular Biology of the SARS-Coronavirus. Springer Berlin Heidelberg, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-03683-5
+
+Chicago Lal, Sunil K., ed. Molecular Biology of the SARS-Coronavirus. Berlin, Heidelberg: Springer Berlin Heidelberg, 2010. https://doi.org/10.1007/978-3-642-03683-5.
+
+Nature 1.Molecular Biology of the SARS-Coronavirus. (Springer Berlin Heidelberg, 2010). doi:10.1007/978-3-642-03683-5.
+
+IEEE [1]S. K. Lal, Ed., Molecular Biology of the SARS-Coronavirus. Berlin, Heidelberg: Springer Berlin Heidelberg, 2010. doi: 10.1007/978-3-642-03683-5.
+
+Citation Chicago: Lal, Molecular Biology of the SARS-Coronavirus.
+
 For Python installation, run this command in Terminal of your choice
 
 ```bash
