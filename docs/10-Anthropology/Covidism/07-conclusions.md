@@ -6,7 +6,7 @@ sidebar_position: 9
 ## Reformation
 ## Education
 ## What We Can Do
-
+Ask questions, demand answers.
 
 
 ```bash
