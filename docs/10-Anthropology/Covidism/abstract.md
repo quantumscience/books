@@ -9,9 +9,12 @@ bibliography: biblio.bib
 #### Dehumanization of Nations and Decline of Science
 ## Abstract
 
-Development of citizen society [@lee_complete_2021] during failing government structures in the West. Comparative study of citizen freedom during so called pandemic. Inevitable repercussions on sustainability of science, culture, and economics.
+Development of citizen society [@lee_complete_2021] during failing government structures. Collapse of regulations in public health. Comparative study of citizen freedom during so called pandemic. Inevitable repercussions on sustainability of science, culture, and economics.
 
 ## Foreword
+- book scope and content
+- goal
+
 ## Cover
 
 ![image](./images/book-covidism2.svg)

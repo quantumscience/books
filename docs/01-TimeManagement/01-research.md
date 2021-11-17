@@ -5,10 +5,13 @@ sidebar_position: 4
 # Structuring Your Research
 
 - Principles and Knowledge
-- Tools and Best Practices
+- Tools and Best Practices (Software and Workplace)
 - Research Design
 - Logical Structures
-
+- Principle of Iterative Cycles
+- Quick Draft, Quick Revisions (Revision History)
+- Data and Source Management
+- References
 
 ```bash
 sudo apt install python3-pip

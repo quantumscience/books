@@ -18,6 +18,9 @@ sidebar_position: 6
 - logical conclusions of the public
 # Fabricating Assumptions
 - narrative is used and discarded
+# Neuro Linguistic Programming
+- pseudoscience of manipulation (sometimes called dark psychology)
+- inventing new words and shifting the meaning of old ones
 
 ```bash
 sudo apt install python3-pip

@@ -5,7 +5,16 @@ sidebar_position: 2
 # Covidism
 ## Origin
 ## Practices
+- best and worst practices
 ## Groupthink
+- Description and Consequences
+## Rationalization of Anti-Thesis
+- fallacy of higher good (Fritz.H. , humane killing, malpractice and pseudoscience)
+- self-fulfilling prophecies
+## Manufacturing a Crisis
+- using a wide choice logical fallacies
+- ad populum - orchestrating global crisis
+- media outlets
 ## Comparative Study
 Test bibliography in markdown[<sup>1</sup>](#abcde), jump to other[<sup>2</sup>](#def). Another [Specification](#specification) or specification[<sup>1</sup>](#specification). Reference style link [Specification][The Kostoff knowledge].
 
