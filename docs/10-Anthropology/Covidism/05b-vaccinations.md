@@ -10,6 +10,7 @@ sidebar_position: 7
 ## Fundamental Rules
 - imperatives for the technology
 ## Politics of Lesser Good
+## Biostatistics, Design and Analysis of Vaccine Studies
 ## The Cheapest and Not So Cheap
 ## Novel Vaccines
 - Novel Technologies for Vaccine Development

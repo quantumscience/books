@@ -3,9 +3,11 @@ sidebar_position: 9
 ---
 
 # Conclusions
+## Reformation
+## Education
 ## What We Can Do
 
-For Python installation, run this command in Terminal of your choice
+
 
 ```bash
 sudo apt install python3-pip
