@@ -6,7 +6,7 @@ bibliography: biblio.bib
 ---
 
 # Covidism
-#### Dehumanization of Nations
+#### Dehumanization of Nations and Decline of Science
 ## Abstract
 
 Development of citizen society [@lee_complete_2021] during failing government structures in the West. Comparative study of citizen freedom during so called pandemic. Inevitable repercussions on sustainability of science, culture, and economics.

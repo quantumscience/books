@@ -7,7 +7,11 @@ sidebar_position: 2
 ## Practices
 ## Groupthink
 ## Comparative Study
-Test bibliography in markdown[<sup>1</sup>](#abcde), jump to other[<sup>2</sup>](#def). Another [Specification](#specification) or specification[<sup>1</sup>](#specification). Reference style link [Specification][The Kostoff knowledge]
+Test bibliography in markdown[<sup>1</sup>](#abcde), jump to other[<sup>2</sup>](#def). Another [Specification](#specification) or specification[<sup>1</sup>](#specification). Reference style link [Specification][The Kostoff knowledge].
+
+Test jump Target[<sup>3</sup>](#gh). Test jump Target[<sup>4</sup>](#ij).
+
+<a href="#">Click here to top!</a>. <a href="#Kostoff">Click here for reference!</a>
 
 1. Melbourne doctor SUSPENDED over claims he issued fake. COVID vaccine exemptions (2021) 7NEWS. Available at: https://7news.com.au/news/vic/victorian-doctor-mark-hobart-accused-of-issuing-fake-covid-vaccine-exemptions-c-4525015 (Accessed: 12 November 2021).
 2. Multimorbidity patterns among COVID-19 deaths: proposal for the construction of etiological models (no date). Pan American Journal of Public Health. doi:10.26633/RPSP.2020.166.
@@ -31,10 +35,12 @@ Test bibliography in markdown[<sup>1</sup>](#abcde), jump to other[<sup>2</sup>]
 
 1. 46„4Multimorbidity Patterns among COVID-19 Deaths: Proposal for the Construction of Etiological Models". Pan American Journal of Public Health. Viděno 12. listopad 2021. https://doi.org/10.26633/RPSP.2020.166.
 
+<a name="gh"></a>
+
 3. 46„4Multimorbidity Patterns among COVID-19 Deaths: Proposal for the Construction of Etiological Models". Pan American Journal of Public Health. Viděno 12. listopad 2021. https://doi.org/10.26633/RPSP.2020.166.
 
 #### Specification
-
+<a name="ij"></a>
 Elsevier Lal, S.K. (Ed.), 2010. Molecular Biology of the SARS-Coronavirus. Springer Berlin Heidelberg, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-03683-5
 
 Chicago Lal, Sunil K., ed. Molecular Biology of the SARS-Coronavirus. Berlin, Heidelberg: Springer Berlin Heidelberg, 2010. https://doi.org/10.1007/978-3-642-03683-5.
