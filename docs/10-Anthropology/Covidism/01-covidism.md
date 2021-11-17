@@ -5,8 +5,9 @@ sidebar_position: 2
 # Covidism
 ## Origin
 ## Practices
+## Groupthink
 ## Comparative Study
-Test bibliography in markdown[<sup>1</sup>](#abcde), jump to other[<sup>2</sup>](#def). Another [Specification](#specification) or specification[<sup>1</sup>](#specification).
+Test bibliography in markdown[<sup>1</sup>](#abcde), jump to other[<sup>2</sup>](#def). Another [Specification](#specification) or specification[<sup>1</sup>](#specification). Reference style link [Specification][The Kostoff knowledge]
 
 1. Melbourne doctor SUSPENDED over claims he issued fake. COVID vaccine exemptions (2021) 7NEWS. Available at: https://7news.com.au/news/vic/victorian-doctor-mark-hobart-accused-of-issuing-fake-covid-vaccine-exemptions-c-4525015 (Accessed: 12 November 2021).
 2. Multimorbidity patterns among COVID-19 deaths: proposal for the construction of etiological models (no date). Pan American Journal of Public Health. doi:10.26633/RPSP.2020.166.

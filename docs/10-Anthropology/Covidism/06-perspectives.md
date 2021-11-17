@@ -7,7 +7,8 @@ sidebar_position: 8
 ## Antidotes and Other Drugs
 ## Dangers of mRNA Solutions
 ## Totalitarian Privatization of Public Health
-
+- no way out for the elite
+- measures will not be lifted
 
 For Python installation, run this command in Terminal of your choice
 

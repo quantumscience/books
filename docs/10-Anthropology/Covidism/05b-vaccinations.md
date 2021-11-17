@@ -3,8 +3,19 @@ sidebar_position: 7
 ---
 
 # Vaccinations
+- principles
+- bioethics issues
+- wrong presumptions lead to wrong conclusions
 ## Politics of Lesser Good
 ## The Cheapest and Not So Cheap
+## Novel Vaccines
+- Novel Technologies for Vaccine Development
+- RNA and DNA Vaccines
+- issues with mass deployment
+## Why Using DNA Vaccines on Global Population Is not a Good Idea
+- specific use on battling cancer
+- unknown side effects
+- veterinary use
 
 For Python installation, run this command in Terminal of your choice
 

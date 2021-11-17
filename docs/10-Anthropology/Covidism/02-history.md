@@ -3,8 +3,20 @@ sidebar_position: 3
 ---
 
 # C19: History and Timelines
+## Pandemic Definition
+## History and Controversy of World Health Organization (WHO)
+### Africa Adventure
+### Malpractices in Belorussia
+### Unethical Connections and Clientelism
+
+## Channeling of X Virus
+## Wuhan Outbreak
+## Other States and Strange Tracing
+## Chinese Way
+## Stepping Back
 ## Notes
 ## Tables
+## Timeline
 For Python installation, run this command in Terminal of your choice
 
 ```bash

@@ -7,8 +7,13 @@ sidebar_position: 1.2
 ## What is Covidism?
 
 - explanation, history, HO
+- decline of research practice
+- abandoned bioethics
+- creating economic addiction
+- viral behavior in society
+- endgame for the free market
+- end of civil liberties  
 
-For Python installation, run this command in Terminal of your choice
 
 ```bash
 sudo apt install python3-pip

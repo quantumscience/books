@@ -5,6 +5,12 @@ sidebar_position: 6
 # Media Coverage
 - fiasco of investigative journalism
 - corruption and clientelism
+
+## Hegemony and Syndication
+- central news distribution
+## State of the News Media
+- media outlets
+
 ## Python Notes
 For Python installation, run this command in Terminal of your choice
 

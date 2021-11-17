@@ -3,12 +3,13 @@ sidebar_position: 5
 ---
 
 # Decline of Science?
-
+- basic ethical principles
+- bioethics
 > Citation MH
 
 - scientific method never fails
 - advance of pseudoscience
-- bad science and its tragic repercusions
+- bad science and its repercussions
 
 ## Is the Fear Unfounded?
 ## Failures of Scientific Consensus
@@ -29,6 +30,8 @@ sidebar_position: 5
 ## Corruption in Science
 ## Common Fallacies
 ## Evidence by Terror?
+
+- tragic consequences
 
 For Python installation, run this command in Terminal of your choice
 

@@ -3,8 +3,14 @@ sidebar_position: 4
 ---
 
 # Virology
+- basic definitions, Principles and Knowledge
+- specifics of infectious diseases
+## What is Virus?
+- scales and lifecycle
+## DNA, RNA, and Cell Biology
 ## Fundamentals
 ## Epidemiology
+## Immunology
 ## Respirational Mortality and Multimorbidity
 - put it in C19 book?
 
