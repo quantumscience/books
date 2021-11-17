@@ -12,9 +12,13 @@ sidebar_position: 1.2
 - creating economic addiction
 - viral behavior in society
 - endgame for the free market
-- end of civil liberties  
+- end of civil liberties
+- contact tracing and privacy intrusion
+- falsification of statistics with multimorbidity cases
 
 ## Condemning the Covidism
 - repression and privatization of public health
 - decline of scientific research and education
 - denying fundamental civil rights in global scale
+
+## Petition
