@@ -5,11 +5,15 @@ sidebar_position: 7
 # Vaccinations
 - principles
 - bioethics issues
+- cure versus prevention
 - wrong presumptions lead to wrong conclusions
+## Fundamental Rules
+- imperatives for the technology
 ## Politics of Lesser Good
 ## The Cheapest and Not So Cheap
 ## Novel Vaccines
 - Novel Technologies for Vaccine Development
+- New viral vector-based vaccines
 - RNA and DNA Vaccines
 - issues with mass deployment
 ## Why Using DNA Vaccines on Global Population Is not a Good Idea

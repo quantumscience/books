@@ -11,8 +11,13 @@ sidebar_position: 6
 ## State of the News Media
 - media outlets
 
-## Python Notes
-For Python installation, run this command in Terminal of your choice
+## Fake News
+- what is an opposite of fake news?
+- news versus factography
+- narratives and storytelling
+- logical conclusions of the public
+# Fabricating Assumptions
+- narrative is used and discarded
 
 ```bash
 sudo apt install python3-pip
