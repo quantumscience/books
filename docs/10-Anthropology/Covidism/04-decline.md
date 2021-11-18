@@ -14,7 +14,7 @@ sidebar_position: 5
 ## Is the Fear Unfounded?
 ## Failures of Scientific Consensus
 
-- description of work procedures
+- description of work procedures and practices
 - long term problem
 - scams in science
 

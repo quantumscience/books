@@ -4,7 +4,11 @@ sidebar_position: 3
 
 # C19: History and Timelines
 ## Pandemic Definition
+## Who is WHO?
 ## History and Controversy of World Health Organization (WHO)
+For an international organization dealing with public health, the funding of WHO is far from being transparent.
+- financing WHO
+- US controversy
 ### Contributors and Investors
 ### Africa Adventure
 ### Malpractices in Belorussia
