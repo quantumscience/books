@@ -10,6 +10,11 @@ sidebar_position: 4
 ## DNA, RNA, and Cell Biology
 ## Fundamentals
 ## Epidemiology
+### History of Epidemiology
+### Semmelweis, Snow, and Janský
+- Obstetric, hygienic, serologist
+### Use of Scientific Method
+### Working with Data
 ## Immunology
 ## Respirational Mortality and Multimorbidity
 - put it in C19 book?
