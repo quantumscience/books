@@ -6,22 +6,15 @@ sidebar_position: 2.5
 # Installations
 ## Abstract
 
-Dependence and independence of information bits and structures is an important factor in analyzing data and creating insights.
+Basic installations you will need. The experiments will be on unrooted device only.
 
-## Types of Interactions
-- independent and dependent
-- linear and nonlinear dependency
-- causal and non-causal connections
-- correlation and causality
+## Linux Installation and Setup
+- Termux
+- Other Linux distros, using KeX
 
-- illustration: correlation without causality
-- phenomenology of empiric research
+## Using Terminal
 
-## Information Cells
+- basic Commands
 
-- organells of information
-- dynamics
-- development
-- Self correlation of cells of information
-- Structures and self evolving systems
-- isomorphic behaviour in information cells
+## Using GUI and Desktops
+- scripts and apps

@@ -6,24 +6,18 @@ sidebar_position: 2.2
 # Why to Use Android Linux on the Road?
 ## Abstract
 
-We will define the term based on its meaning in informatics and different connotations of using "information" in .
+Using Linux on mobile device brings some limitations, but also many advantages. It is a great tool for data science education and opens an interesting options in other scientific branches.
 
-## Information Bits
-- reductionist approach
-- distilling elements of information
-- logical linguistics
-- medium agnostic definition
-- difference between information element and information structure
+## Learn Linux on the Go
+- programming languages and scripts
+- quantum information
+- creating scientific log
+- mobile scientific lab
 
-- illustration: quantum information
+## Use Features of Mobile Devices
 
-## Logical Operations
+- structure of mobile devices
+- Android device as scientific tool
 
-- basic applicable operations
-- operation is an information itself
-
-## Algorithms
-- bit - operation - algorithm - structure
-## Hidden Structures
-- nonlinear connections
-- neural connections
+## Developing Algorithms
+- creating and your own scripts

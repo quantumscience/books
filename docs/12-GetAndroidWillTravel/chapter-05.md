@@ -13,3 +13,5 @@ sidebar_position: 2.7
 - using git
 
 ## Deploy
+
+## Remote Control
