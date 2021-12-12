@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2.7
+sidebar_position: 6
 
 ---
 
@@ -9,6 +9,8 @@ sidebar_position: 2.7
 - using mobile hardware
 - sensors and data streams
 
-## Testing 
+## Installation of Net Hunter with GUI
+
+## Testing
 
 - security fundamentals
