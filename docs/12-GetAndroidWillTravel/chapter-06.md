@@ -10,6 +10,7 @@ sidebar_position: 6
 - sensors and data streams
 
 ## Installation of Net Hunter with GUI
+- KeX
 
 ## Testing
 

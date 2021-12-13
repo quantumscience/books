@@ -4,6 +4,8 @@ sidebar_position: 2.5
 ---
 
 # Installations
+Termux is Linux environment emulator for Android. It is easy to install and and allows straightforward implementations of Linux packages and apps, various distros emulations and has a lot of extra features.
+
 ## Abstract
 
 Basic installations you will need. The experiments will be on unrooted device only. About Termux. Other Linux distros, using KeX. GUI.
@@ -15,7 +17,7 @@ F-Droid is Android app repository for free and open source (FOSS) software. It i
 
 ### Step 2.: Installing Termux and Termux API
 
-Find Termux in F-Droid catalogue and install it. Then find and install Termux API the same way.
+Find Termux in F-Droid catalogue and install it. Then find and install Termux API the same way (do not mix with versions from Google Play or other sources, since they have different versions and signature keys).
 
 You can also install the API from the terminal by running
 ```
@@ -40,11 +42,23 @@ Select all three repos in the first menu, in the second menu change to f.i. GitH
 
 
 ## Using Terminal
+After updating the system ```apt update && apt upgrade -y```, try to install some apps. Let us begin with **neofetch**, a system info bash script.
 
-- basic Commands
+```
+apt install neofetch -y
+```
+
+
+- Run neofetch, or ```neofetch --help``` for more options.
+- Install help2man, to generate a page for a reference from the program output
 
 ## Using GUI and Desktops
+
 - scripts and apps
+
+## Accessing Files in Termux Installation
+- Material Files
+- Adding the storage to file manager
 
 ## VMOS and Termux
 
