@@ -5,21 +5,12 @@ authors: [openr, sandner]
 tags: [open access, research, data science]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Open Research Library Project is in the test run now. You can read more about it in the News section or take a look at the [Bookshelf](./docs/intro). The project is powered by the [Docusaurus Framework](https://docusaurus.io), all the content is written and formatted in Markdown.
 
-Simply add Markdown files (or folders) to the `blog` directory.
-
-Regular blog authors can be added to `authors.yml`.
-
-The blog post date can be extracted from filenames, such as:
-
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
+All books are in in the `books` directory, some are organized in subfolders. The content should be easy to print directly from the page. Published works will be also available in standard digital formats.
 
 ![Test Image](./blog-02.svg)
 
-The blog supports tags as well!
+Thanks for your support!
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+**Open Research Library Project** is constantly growing, feel free to check back regurarly!  
