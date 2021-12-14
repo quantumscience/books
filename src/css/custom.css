@@ -27,6 +27,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
+
 @font-face {
   font-family: "Bitter-Light";
   src: url('/static/Bitter-Light.ttf') format('truetype');
@@ -67,20 +68,39 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   src: url('/static/Roboto-Medium.ttf') format('truetype');
 }
 
-/*
+@font-face {
+  font-family: "Miriam-Libre-Regular";
+  src: url('/static/MiriamLibre-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Miriam-Libre-Bold";
+  src: url('/static/MiriamLibre-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "NotoSans-Regular";
+  src: url('/static/NotoSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "NotoSans-Bold";
+  src: url('/static/NotoSans-Bold.ttf') format('truetype');
+}
+
 :root {
   --ifm-font-family-monospace: "Roboto-Regular";
   --ifm-font-family-base: "Roboto-Regular"
 }
 
 h1 {
-  font-family: Roboto-Medium;
+  font-family: NotoSans-Bold;
 }
 
 h2, h3 {
-  font-family: Roboto-Thin;
+  font-family: NotoSans-Regular;
 }
 
 body, h4, h5, h6 {
   font-family: Roboto-Regular;
-}*/
+}
