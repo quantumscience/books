@@ -3,7 +3,7 @@ sidebar_position: 2.5
 
 ---
 
-# Installations
+# Installations and Linux File System
 Termux is Linux environment emulator for Android. It is easy to install and and allows straightforward implementations of Linux packages and apps, various distros emulations and has a lot of extra features.
 
 ## Abstract
@@ -52,13 +52,23 @@ apt install neofetch -y
 - Run neofetch, or ```neofetch --help``` for more options.
 - Install help2man, to generate a page for a reference from the program output
 
-## Using GUI and Desktops
 
-- scripts and apps
+## Linux File System
+- structure of installation
 
 ## Accessing Files in Termux Installation
 - Material Files
 - Adding the storage to file manager
+
+## Cloud Storage
+
+- using file managers
+
+## Using GUI and Desktops
+
+- scripts and apps
+- monitor outputs and interfaces
+
 
 ## VMOS and Termux
 
