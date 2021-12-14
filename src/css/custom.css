@@ -26,3 +26,61 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+@font-face {
+  font-family: "Bitter-Light";
+  src: url('/static/Bitter-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Bitter-Regular";
+  src: url('/static/Bitter-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Bitter-Thin";
+  src: url('/static/Bitter-Thin.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Bitter-Extra";
+  src: url('/static/Bitter-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "OpenSans";
+  src: url('/static/OpenSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url('/static/Roboto-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Roboto-Thin";
+  src: url('/static/Roboto-Thin.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Roboto-Medium";
+  src: url('/static/Roboto-Medium.ttf') format('truetype');
+}
+
+/*
+:root {
+  --ifm-font-family-monospace: "Roboto-Regular";
+  --ifm-font-family-base: "Roboto-Regular"
+}
+
+h1 {
+  font-family: Roboto-Medium;
+}
+
+h2, h3 {
+  font-family: Roboto-Thin;
+}
+
+body, h4, h5, h6 {
+  font-family: Roboto-Regular;
+}*/
