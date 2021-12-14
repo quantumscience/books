@@ -54,6 +54,16 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 @font-face {
+  font-family: "RobotoSlab-Regular";
+  src: url('/static/RobotoSlab-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "RobotoSlab-Thin";
+  src: url('/static/RobotoSlab-Thin.ttf') format('truetype');
+}
+
+@font-face {
   font-family: "Roboto-Regular";
   src: url('/static/Roboto-Regular.ttf') format('truetype');
 }
@@ -94,7 +104,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 h1 {
-  font-family: NotoSans-Bold;
+  font-family: RobotoSlab-Thin;
 }
 
 h2, h3 {
