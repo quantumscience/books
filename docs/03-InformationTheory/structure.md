@@ -25,3 +25,18 @@ Dependence and independence of information bits and structures is an important f
 - Self correlation of cells of information
 - Structures and self evolving systems
 - isomorphic behaviour in information cells
+
+## Informational Dynamics
+
+- entropy redefined, measuring a change in a system
+- time as a factor of change, speed and structure
+- carriers of information
+- how to quantize the content?
+- chaos and devolution
+
+## Information Theory and Development of Physics
+
+- properties of physical space and interactions
+- statistical physics and probabilistic insights
+- mathematical models and physical phenomenology
+- devising conjectures and concept of information frameworks
