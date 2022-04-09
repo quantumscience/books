@@ -1,6 +1,7 @@
 # Project Open Research
 
 This website is testing a new format of electronic publication of scientific content (books and papers) and textbooks.
+The outline of themes works as an incubator and experimental platform for new ideas and procedures for the electronic publishing of scientific and educational texts.
 
 ### Goals
 
