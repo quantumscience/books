@@ -1,14 +1,15 @@
 ---
-sidebar_position: 3.5
+sidebar_position: 3.6
 ---
 
-# Chapter V: Open Access
+# Chapter VI: Open Source Software
 ## Overview
 
 :::info
-- Open Source and Open Access Similarities
-- Economic Models of Sustainable Systems
-- Existing Projects and Issues
-- Knowledge Networks
-- Comparisons of Different Models and Perspectives
+
+- Open Source Operation Systems
+- Open Source in Research
+- Open Source in Industry
+- Other Open Source Solutions
+
 :::

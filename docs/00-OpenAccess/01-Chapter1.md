@@ -5,7 +5,13 @@ sidebar_position: 3.1
 # Chapter I: Open Access
 
 ## Overview
-The idea of open source is not a new one. History of code sharing. Cryptography of meanings.
+The importance of open resources in science and software engineering is growing exponentially. The idea of open source is not a new one. History of code sharing. Cryptography of meanings.
+
+## Why is Open Access an Imperative for Sustainability of Science
+## A.I. and Open Code
+## Open Resources in Scientific Research
+## Creative Open Source and Future of Software Development
+## Strategic Importance of Open Resources
 
 <details><summary>CLICK ME</summary>
 <p>
