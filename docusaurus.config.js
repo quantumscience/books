@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'Open Access Scientific Library',
   tagline: 'Informatics, Data Science, and Research',
-  url: 'https://github.com/quantumscience/books',
+  url: 'https://openresearch.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
