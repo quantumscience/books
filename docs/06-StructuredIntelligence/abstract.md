@@ -8,6 +8,14 @@ pagination_label: Structured Intelligence
 ## Abstract
 Research on developing structures for information processing. Intelligence in machine and human. Social intelligence in nature. Quantum networks and hierarchical systems. Complex networks. Predictions, causality and correlations. Timescales and subjective evaluations.
 
+```mermaid
+graph TD;
+    Data-->Inference;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ## What's next?
 - storing data and knowledge, inferential decisions
 - active development of intelligent structures
