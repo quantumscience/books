@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   sodipodi:docname="book-sciencediscovery.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 420 297"
+   height="297mm"
+   width="420mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.43896113"
+     inkscape:cx="1139.053"
+     inkscape:cy="924.91105"
+     inkscape:window-width="1920"
+     inkscape:window-height="989"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:blackoutopacity="0.0"
+     width="420mm"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1">
+    <sodipodi:guide
+       position="268.2502,295.81187"
+       orientation="0,-1"
+       id="guide271"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter492"
+       x="-0.037768312"
+       y="-0.025934634"
+       width="1.1070102"
+       height="1.0734815">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood482" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite484" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur486" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset488" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite490" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path318926"
+       style="fill:none;fill-rule:evenodd;stroke:#ffd42a;stroke-width:1.165;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 51.060533,243.58129 7.255527,7.1689 7.255527,-7.1689"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#552200;stroke-width:1.665;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter492);stop-color:#000000;fill-opacity:1"
+       id="rect295"
+       width="190.636"
+       height="277.62103"
+       x="9.568284"
+       y="9.2924318"
+       ry="6.7798662" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;line-height:1.25;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;stroke-width:0.264582"
+       x="33.641792"
+       y="65.663628"
+       id="text3458"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffcc00;stroke-width:0.264582"
+         x="33.641792"
+         y="65.663628"
+         id="tspan104345">The Art </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffcc00;stroke-width:0.264582"
+         x="33.641792"
+         y="94.400627"
+         id="tspan2064">of Science: </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.264582"
+         x="33.641792"
+         y="123.13763"
+         id="tspan2066">Unraveling </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.264582"
+         x="33.641792"
+         y="151.87463"
+         id="tspan2070">the Beauty </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.9896px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.264582"
+         x="33.641792"
+         y="180.61163"
+         id="tspan2074">in Discovery</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.43px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264582"
+       x="106.92202"
+       y="273.76407"
+       id="text6400"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.43px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264582"
+         x="106.92202"
+         y="273.76407"
+         id="tspan6398">Open Research </tspan></text>
+    <rect
+       style="fill:#ffd42a;fill-rule:evenodd;stroke-width:0.269019"
+       id="rect43078"
+       width="1.3007299"
+       height="53.340302"
+       x="57.665695"
+       y="197.01712"
+       ry="0.67235672" />
+    <rect
+       style="fill:#ffd42a;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect43102"
+       width="1.3007299"
+       height="17.036633"
+       x="402.8689"
+       y="-30.038956"
+       ry="0.21474746"
+       transform="rotate(90)" />
+    <circle
+       style="fill:none;stroke:#ffd42a;stroke-width:2.46944;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="path43152"
+       cx="21.399437"
+       cy="397.38974"
+       r="22.112408" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#ffd42a;stroke-width:15.8175;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="path43292"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="-157.58951"
+       sodipodi:cy="205.09811"
+       sodipodi:r1="134.21965"
+       sodipodi:r2="67.109825"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -41.351882,272.20794 -232.475258,0 116.23763,-201.329476 z"
+       transform="matrix(0.1564438,0,0,0.155798,46.053345,366.6787)"
+       inkscape:transform-center-y="-5.227788"
+       inkscape:transform-center-x="-1.0962846e-06" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#ffd42a;stroke-width:6.40531;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path44397"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="-157.58951"
+       sodipodi:cy="205.09811"
+       sodipodi:r1="134.21965"
+       sodipodi:r2="67.109825"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.1519173"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -41.351882,272.20794 -88.941598,-5.80195 -55.20186,69.97875 -21.96649,-86.38139 -83.61206,-30.87546 75.36557,-47.58469 3.52676,-89.060838 68.54497,56.972438 85.791721,-24.16716 -33.002449,82.79559 z"
+       transform="matrix(-0.1564438,0,0,-0.155798,17.714076,482.83932)"
+       inkscape:transform-center-y="5.2277835" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#ffd42a;stroke-width:6.40531;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path44399"
+       inkscape:flatsided="true"
+       sodipodi:sides="5"
+       sodipodi:cx="-157.58951"
+       sodipodi:cy="205.09811"
+       sodipodi:r1="134.21965"
+       sodipodi:r2="67.109825"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.1519173"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M -41.351882,272.20794 -185.49534,336.38474 -291.07389,219.12789 -212.18156,82.482362 -57.844869,115.28764 Z"
+       transform="matrix(-0.1564438,0,0,-0.155798,17.714076,482.83932)"
+       inkscape:transform-center-y="5.2277835" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffd42a;stroke-width:0.264583"
+       x="76.852859"
+       y="238.97855"
+       id="text39229"><tspan
+         sodipodi:role="line"
+         id="tspan39223"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;text-anchor:middle;fill:#ffd42a;stroke-width:0.264583"
+         x="76.852859"
+         y="238.97855" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;text-anchor:start;fill:#ffd42a;stroke-width:0.264583"
+         x="76.852859"
+         y="249.56189"
+         id="tspan39227">Daniel Sandner</tspan></text>
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#550000;stroke-width:1.665;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter492);stop-color:#000000;fill-opacity:1"
+       id="rect223292"
+       width="190.636"
+       height="277.62103"
+       x="215.2655"
+       y="9.2924318"
+       ry="6.7798662" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.43px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264582;fill:#ffffff;fill-opacity:1"
+       x="239.38527"
+       y="268.03763"
+       id="text223300"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.43px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264582;fill:#ffffff;fill-opacity:1"
+         x="239.38527"
+         y="268.03763"
+         id="tspan223298">Open Research </tspan></text>
+    <path
+       id="path318928"
+       style="fill:none;fill-rule:evenodd;stroke:#ffd42a;stroke-width:1.165;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 53.95807,245.54218 4.35799,4.09742 4.357991,-4.09742"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Malgun Gothic';-inkscape-font-specification:'Malgun Gothic, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fff6d5;stroke-width:0.264583"
+       x="76.981979"
+       y="205.18742"
+       id="text2160"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#fff6d5;stroke-width:0.264583"
+         x="76.981979"
+         y="205.18742"
+         id="tspan2158">The History and</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#fff6d5;stroke-width:0.264583"
+         x="76.981979"
+         y="218.63496"
+         id="tspan2169">Future Perspectives </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#fff6d5;stroke-width:0.264583"
+         x="76.981979"
+         y="232.0825"
+         id="tspan2171">of Scientific Methods</tspan></text>
+    <path
+       id="path2259"
+       style="fill:none;fill-rule:evenodd;stroke:#ffd42a;stroke-width:1.165;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 257.83164,231.41038 7.25552,7.1689 7.25553,-7.1689"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.4355px;line-height:1.25;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;stroke-width:0.223679"
+       x="261.56583"
+       y="60.104031"
+       id="text2271"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.4355px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffcc00;stroke-width:0.223679"
+         x="261.56583"
+         y="60.104031"
+         id="tspan2261">The Art </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.4355px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffcc00;stroke-width:0.223679"
+         x="261.56583"
+         y="84.398407"
+         id="tspan2263">of Science: </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.4355px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.223679"
+         x="261.56583"
+         y="108.69278"
+         id="tspan2265">Unraveling </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.4355px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.223679"
+         x="261.56583"
+         y="132.98717"
+         id="tspan2267">the Beauty </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.4355px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.223679"
+         x="261.56583"
+         y="157.28154"
+         id="tspan2269">in Discovery</tspan></text>
+    <rect
+       style="fill:#ffd42a;fill-rule:evenodd;stroke-width:0.269019"
+       id="rect2273"
+       width="1.3007299"
+       height="53.340302"
+       x="264.43686"
+       y="184.84645"
+       ry="0.67235672" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffd42a;stroke-width:0.264583"
+       x="283.62405"
+       y="227.8662"
+       id="text2279"><tspan
+         sodipodi:role="line"
+         id="tspan2275"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;text-anchor:middle;fill:#ffd42a;stroke-width:0.264583"
+         x="283.62405"
+         y="227.8662" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Bitter;-inkscape-font-specification:'Bitter, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;text-anchor:start;fill:#ffd42a;stroke-width:0.264583"
+         x="283.62405"
+         y="238.44954"
+         id="tspan2277">Daniel Sandner</tspan></text>
+    <path
+       id="path2281"
+       style="fill:none;fill-rule:evenodd;stroke:#ffd42a;stroke-width:1.165;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 260.72917,233.37127 4.35799,4.09742 4.358,-4.09742"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Malgun Gothic';-inkscape-font-specification:'Malgun Gothic, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fff6d5;stroke-width:0.264583"
+       x="283.75317"
+       y="187.6071"
+       id="text2289"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#fff6d5;stroke-width:0.264583"
+         x="283.75317"
+         y="187.6071"
+         id="tspan2283">The History and</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#fff6d5;stroke-width:0.264583"
+         x="283.75317"
+         y="201.05464"
+         id="tspan2285">Future Perspectives </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#fff6d5;stroke-width:0.264583"
+         x="283.75317"
+         y="214.50218"
+         id="tspan2287">of Scientific Methods</tspan></text>
+  </g>
+</svg>
