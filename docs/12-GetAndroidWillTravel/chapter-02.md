@@ -41,6 +41,26 @@ Select all three repos in the first menu, in the second menu change to f.i. GitH
 - Termux
 
 
+## Installing Libraries (pandas, pygame) on Termux
+
+If you have issues with installing libraries on termux, here is a solution for pandas and pygame:
+
+### Pandas
+
+```
+pkg i tur-repo -y
+pkg i python-pandas -y
+```
+
+### Pygame
+
+```
+pkg i x11-repo
+pkg install sdl2 sdl2-gfx sdl2-image sdl2-mixer sdl2-ttf
+pkg i xorgproto
+pip install pygame
+```
+
 ## Using Terminal
 After updating the system ```apt update && apt upgrade -y```, try to install some apps. Let us begin with **neofetch**, a system info bash script.
 

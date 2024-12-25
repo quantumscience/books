@@ -259,22 +259,22 @@
        sodipodi:nodetypes="ccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Malgun Gothic';-inkscape-font-specification:'Malgun Gothic, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fff6d5;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fff6d5;stroke-width:0.264583"
        x="76.981979"
        y="205.18742"
        id="text2160"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#fff6d5;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58330002px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#fff6d5;stroke-width:0.264583"
          x="76.981979"
          y="205.18742"
          id="tspan2158">The History and</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#fff6d5;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58330002px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#fff6d5;stroke-width:0.264583"
          x="76.981979"
          y="218.63496"
          id="tspan2169">Future Perspectives </tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#fff6d5;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58330002px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#fff6d5;stroke-width:0.264583"
          x="76.981979"
          y="232.0825"
          id="tspan2171">of Scientific Methods</tspan></text>
@@ -364,5 +364,36 @@
          x="283.75317"
          y="214.50218"
          id="tspan2287">of Scientific Methods</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.9896px;line-height:1.25;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;stroke-width:0.264582"
+       x="-159.84061"
+       y="90.844193"
+       id="text333"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.98959924px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffcc00;stroke-width:0.264582"
+         x="-159.84061"
+         y="90.844193"
+         id="tspan323">The Art </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.98959924px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffcc00;stroke-width:0.264582"
+         x="-159.84061"
+         y="119.58119"
+         id="tspan325">of Science: </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.98959924px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.264582"
+         x="-159.84061"
+         y="148.31819"
+         id="tspan327">Unraveling </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.98959924px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.264582"
+         x="-159.84061"
+         y="177.05519"
+         id="tspan329">the Beauty </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.98959924px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.264582"
+         x="-159.84061"
+         y="205.79219"
+         id="tspan331">in Discovery</tspan></text>
   </g>
 </svg>
