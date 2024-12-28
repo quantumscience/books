@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2.1
+sidebar_position: 3.1
 pagination_label: Natural Intelligence
 ---
 

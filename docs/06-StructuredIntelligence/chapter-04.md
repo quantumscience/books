@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2.4
+sidebar_position: 3.4
 pagination_label: Diversification of Intelligent Structures
 ---
 

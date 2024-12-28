@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2.2
+sidebar_position: 3.2
 pagination_label: Human Intelligence
 ---
 
