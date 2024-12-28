@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 sidebar_label: Book Outline
-pagination_label: Information Theory: A Philosophical-Scientific Perspective (Outline)
+pagination_label: Information Theory (Outline)
 ---
 
 # Information Theory: A Philosophical-Scientific Perspective
