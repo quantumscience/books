@@ -6,7 +6,7 @@ pagination_label: Scale Resonance Theory Intro
 
 # Intro: Scale Resonance Theory
 
-> "Traditional scientific approaches often stumble when confronting emergence—the appearance of properties that cannot be predicted from lower-scale components alone."— Daniel Sandner
+> "Traditional scientific approaches often stumble when confronting emergence—the appearance of properties that cannot be predicted from lower-scale components alone." — Daniel Sandner
 
 ## Core Premises
 

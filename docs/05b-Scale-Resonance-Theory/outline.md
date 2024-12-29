@@ -6,6 +6,8 @@ pagination_label: SCALE RESONANCE THEORY
 
 # Scale Resonance Theory: Multi-Level Perceptual Integration in Complex Systems
 
+ > "Our understanding of systems changes qualitatively depending on our scale of observation, yet these different perspectives resonate with each other in predictable and meaningful ways." — Daniel Sandner
+
 ## Book Outline
 
 ### PART I: FOUNDATIONS AND PRINCIPLES

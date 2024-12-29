@@ -5,6 +5,7 @@ pagination_label: SCALE RESONANCE THEORY
 ---
 
 # Scale Resonance Theory: Multi-Level Perceptual Integration in Complex Systems
+ > "Like water changing phase, information changes form while maintaining fundamental conservation principles." — Daniel Sandner
 
 ## Abstract:
 

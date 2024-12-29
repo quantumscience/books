@@ -6,6 +6,7 @@ pagination_label: TIP Problem Analysis
 
 # The TIP Framework: A Multi-dimensional Approach to Complex Systems Understanding
 ## Abstract
+> "Deep structural patterns transcend their specific contexts" — Daniel Sandner
 
 This work introduces and analyzes the Transposition-Inversion-Proportion (TIP) framework, a novel approach to complex systems analysis and problem-solving that transcends traditional analytical methods. Through systematic application of three fundamental principles - transposition across domains, inversion of perspectives, and proportion analysis across scales - the framework provides unique insights into complex systems while simultaneously demonstrating its power through self-referential application.
 

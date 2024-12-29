@@ -6,6 +6,7 @@ pagination_label: TIP Framework Problem Solving
 
 # TIP Framework: A Novel Approach to Complex Problem Solving
 ## Book Outline
+> "If Euclid had used rules of transposition, inversion, and proportion—perhaps he wouldn't have spent so much time trying to prove that parallel lines never meet." — Daniel Sandner
 
 # Part I: Foundations and Principles
 
