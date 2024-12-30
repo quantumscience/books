@@ -9,18 +9,18 @@ pagination_label: Trialogue Book
 > "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things." — Isaac Newton
 
 ### Foreword
-- By a renowned physicist or complexity scientist
+- On complexity in mathematics, physics, and science in general
 - Personal experience with multi-perspective discovery
 - Vision for future of scientific thinking
 
-### Preface: The Power of Three
+### Preface: The Validation of Three
 - Author's journey of discovery
 - Historical patterns of threefold thinking
 - Book's mission and structure
 
-## PART I: FOUNDATIONS
+## PART I: FOUNDATIONS AND EXPLORATIONS
 ### Chapter 1: The Natural Geometry of Thought
-- The ubiquity of three in nature
+- The ubiquity of three in nature (on a lighter note)
 - Cognitive architecture and spatial thinking
 - Historical emergence of triadic patterns
   - Ancient philosophies
