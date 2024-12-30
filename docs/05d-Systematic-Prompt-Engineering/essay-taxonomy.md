@@ -121,9 +121,16 @@ flowchart TD
         I[Cultural Context]
     end
 
-    Syntactic Metrics --> J[Composite Score]
-    Semantic Metrics --> J
-    Contextual Metrics --> J
+    A --> J[Composite Score]
+    B --> J
+    C --> J
+    D --> J
+    E --> J
+    F --> J
+    G --> J
+    H --> J
+    I --> J
+
 ```
 
 ### 3.2 Scoring Algorithm

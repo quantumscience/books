@@ -112,9 +112,13 @@ flowchart TD
         I[Performance Monitor]
     end
 
-    Semantic Core --> Evolution Engine
-    Evolution Engine --> Validation System
-    Validation System --> |Feedback Loop| Evolution Engine
+    A --> D
+    B --> E
+    C --> F
+    D --> G
+    E --> H
+    F --> I
+    I --> |Feedback Loop| D
 ```
 
 ### 3.2 Counter-Arguments and Solutions
