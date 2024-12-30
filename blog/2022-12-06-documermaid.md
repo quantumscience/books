@@ -7,6 +7,8 @@ tags: [open research, project development, docusaurus, mermaid, scientific diagr
 
 Open Research Project is an incubator and an accelerator of writing in fields of Data Science, Informatics, and Philosophy of Science. Subjects may vary from technical handbooks to theoretical treatises.
 
+{/* truncate */}
+
 Today we installed and tested Mermaid diagrams and visualizations.
 
 ```mermaid

@@ -7,7 +7,7 @@ tags: [data science, docusaurus]
 
 Open Research Library is an ongoing project, and its main framework should be ready at the end of 2022.
 
-<!--truncate-->
+{/* truncate */}
 
 Timescale of publishing books:
 
