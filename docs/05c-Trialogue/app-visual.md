@@ -255,3 +255,9 @@ This approach:
 4. Keeps the process practical and actionable
 
 The key is maintaining dynamic interaction between technical, semantic, and contextual aspects while keeping the process practical for AI implementation.
+
+## Example Prompts
+
+
+
+## Example LLM Image to Text Reasoning

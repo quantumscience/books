@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4.2
-sidebar_label: Trialogue (Essay)
-pagination_label: Trialogue (Essay)
+sidebar_label: Multi-Dimensional Rating (Essay)
+pagination_label: Multi-Dimensional Rating (Essay)
 ---
 
 # Taxonomic Framework for Prompt Complexity: A Multi-Dimensional Rating System

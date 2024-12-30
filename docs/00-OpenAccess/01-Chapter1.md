@@ -13,19 +13,6 @@ The importance of open resources in science and software engineering is growing 
 ## Creative Open Source and Future of Software Development
 ## Strategic Importance of Open Resources
 
-<details><summary>CLICK ME</summary>
-<p>
-
-#### Yes, even hidden code blocks!
-The meaning perceived by an observer can completely depend on a context.
-
-```python
-print("Open Source is a way to safeguard an important information")
-```
-
-</p>
-</details>
-
 Why is it so difficult to store  **cultural legacy**. Templates of software library archives.
 
 Software is a part of our culture. Means of keepsafing.

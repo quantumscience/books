@@ -34,14 +34,9 @@ import TabItem from '@theme/TabItem';
 
 :::info Anaconda and Miniconda Installations
 
-<Tabs
-  defaultValue="windows"
-  values={[
-    {label: 'Windows', value: 'windows'},
-    {label: 'Linux', value: 'linux'},
-    {label: 'macOS', value: 'apple'},
-  ]}>
-  <TabItem value="windows">For Anaconda installation, run Windows Terminal as Administrator
+## Windows
+
+For Anaconda installation, run Windows Terminal as Administrator
 
   ```bash
   winget install anaconda3
@@ -54,8 +49,7 @@ Alternatively, for Miniconda installation:
   ```bash
   conda install -c anaconda anaconda-navigator
   ```
-  </TabItem>
-  <TabItem value="linux">
+  ## Linux
 
   For Anaconda or Miniconda installation, you will need individual installers. You can download the miniconda installer from https://conda.io/miniconda.html and Anaconda installer from https://www.anaconda.com/products/individual.
 
@@ -74,10 +68,7 @@ Alternatively, for Miniconda installation:
   8. If the window is too zoomed in on your system, go to **File ‣ Preferences** and uncheck *Enable high DPI scaling*. Restart Anaconda Navigator.
 
 
-  </TabItem>
-  <TabItem value="apple">This is an apple 🍎</TabItem>
-</Tabs>
-
+ 
 :::
 
 ### Conda Installations of Packages
@@ -150,33 +141,3 @@ Goals.
 :::
 
 
-:::tip Use tabs in admonitions
-
-<Tabs
-  defaultValue="apple"
-  values={[
-    {label: 'Apple', value: 'apple'},
-    {label: 'Orange', value: 'orange'},
-    {label: 'Banana', value: 'banana'},
-  ]}>
-  <TabItem value="apple">This is an apple 🍎
-
-  ```bash
-  npm run build
-  ```
-  </TabItem>
-  <TabItem value="orange">This is an orange 🍊</TabItem>
-  <TabItem value="banana">This is a banana 🍌</TabItem>
-</Tabs>
-
-:::
-
-```md title="docs/hello.md"
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-Em Dash (—) En Dash (–)
-<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>0</kbd>
-**Soubor ‣ Nový ‣ Obecné**. (*File ‣ New ‣ General*)
