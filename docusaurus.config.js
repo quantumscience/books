@@ -1,53 +1,81 @@
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+// @ts-check
+// `@type` JSDoc annotations allow editor autocompletion and type checking
+// (when paired with `@ts-check`).
+// There are various equivalent ways to declare your Docusaurus config.
+// See: https://docusaurus.io/docs/api/docusaurus-config
 
-// With JSDoc @type annotations, IDEs can provide config autocompletion
-/** @type {import('@docusaurus/types').DocusaurusConfig} */
-(module.exports = {
-    markdown: {
-      mermaid: true,
-    },
-    themes: ['@docusaurus/theme-mermaid'],
+import {themes as prismThemes} from 'prism-react-renderer';
+
+// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+
+/** @type {import('@docusaurus/types').Config} */
+
+const config = {
   title: 'Open Access Scientific Library',
   tagline: 'Informatics, Data Science, and Research',
-  url: 'https://openresearch.netlify.app/',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+
+  // Set the production url of your site here
+  url: 'https://openresearch.netlify.app/',
+  // Set the /<baseUrl>/ pathname under which your site is served
+  // For GitHub pages deployment, it is often '/<projectName>/'
+  baseUrl: '/',
+
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
   organizationName: 'quantumscience', // Usually your GitHub org/user name.
   projectName: 'books', // Usually your repo name.
-  trailingSlash: false,
+
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+
+  // Even if you don't use internationalization, you can use this field to set
+  // useful metadata like html lang. For example, if your site is Chinese, you
+  // may want to replace "en" with "zh-Hans".
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
 
   presets: [
     [
-      '@docusaurus/preset-classic',
+      'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: './sidebars.js',
           // Please change this to your repo.
-          editUrl: 'https://github.com/quantumscience/books/',
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          blogSidebarTitle: 'Project News',
-          blogTitle: 'News from Open Research Project',
-          blogDescription: 'Books from Open Access Research Library',
+          feedOptions: {
+            type: ['rss', 'atom'],
+            xslt: true,
+          },
           // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/quantumscience/books/blog/',
+            'https://github.com/quantumscience/books/',
+          // Useful options to enforce blogging best practices
+          onInlineTags: 'warn',
+          onInlineAuthors: 'warn',
+          onUntruncatedBlogPosts: 'warn',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: './src/css/custom.css',
         },
       }),
     ],
   ],
 
-    themeConfig:
+  themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      // Replace with your project's social card
+      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'OpenResearch',
         logo: {
@@ -56,12 +84,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Books',
           },
-          {to: '/blog', label: 'News', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/quantumscience/books',
             label: 'GitHub',
@@ -88,7 +116,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/users/17056688/open-research',
               },
-
+              {
+                label: 'Discord Docusaurus (SSG)',
+                href: 'https://discordapp.com/invite/docusaurus',
+              },
+              {
+                label: 'X Docusaurus (SSG)',
+                href: 'https://x.com/docusaurus',
+              },
             ],
           },
           {
@@ -99,8 +134,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 to: '/blog',
               },
               {
-                label: 'GitHub',
+                label: 'GitHub Web',
                 href: 'https://github.com/quantumscience/books',
+              },
+              {
+                label: 'GitHub OpenResearch',
+                href: 'https://github.com/openresearch-uk',
               },
             ],
           },
@@ -108,8 +147,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         copyright: `Copyright © ${new Date().getFullYear()} Daniel Sandner. The content of this project itself is licensed under the <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons (CC BY-NC-ND 4.0) license</a>, and the underlying source code used to format and display that content is licensed under the <a href="https://github.com/quantumscience/books/blob/main/LICENSE">MIT license</a>.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
     }),
-});
+    // Mermaid configuration
+    markdown: {
+      mermaid: true,
+    },
+    themes: ['@docusaurus/theme-mermaid'],
+};
+
+export default config;
