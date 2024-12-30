@@ -1,4 +1,8 @@
 {
   "label": "Systematic Prompt Engineering",
-  "position": 1.8
+  "position": 1.8,
+  "link": {
+    "type": "generated-index",
+    "description": "Overview of Contents:"
+  }  
 }

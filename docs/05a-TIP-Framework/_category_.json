@@ -1,4 +1,8 @@
 {
   "label": "The TIP Meta-analytical Framework",
-  "position": 1.5
+  "position": 1.5,
+  "link": {
+    "type": "generated-index",
+    "description": "Overview of Contents:"
+  }
 }
