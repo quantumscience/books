@@ -1,5 +1,1 @@
-# Rule 1: Handle the exact folder name (redirect to slash)
-/causal-latency-theory  /causal-latency-theory/  301
-
-# Rule 2: The actual content (The Proxy)
 /causal-latency-theory/*  https://causal-latency-theory.netlify.app/:splat  200!
