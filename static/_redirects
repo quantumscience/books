@@ -1,1 +1,2 @@
-/causal-latency-theory/*  https://ac2720a7-07f5-42b1-818b-3c2829a44a7e.netlify.app/:splat  200!
+# Redirect old link to new subdomain
+/causal-latency-theory/*  https://causal-latency-theory.openresearch.uk/:splat  301!
